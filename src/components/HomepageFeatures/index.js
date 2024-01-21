@@ -8,7 +8,7 @@ const ProjectList = [
         title: 'Xavier',
         description: <>服务器</>,
         repo: "Xavier-MC/docs",
-        link: "/docs",
+        link: "/docs/intro",
     },
 ];
 
