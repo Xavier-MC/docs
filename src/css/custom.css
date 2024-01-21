@@ -72,10 +72,12 @@
 
 .footer {
   background-color: #f6f7f8;
+  height: 150px;
 }
 
 [data-theme="dark"] .footer {
   background-color: #1b1c1d;
+  height: 150px;
 }
 
 .footer__title {
