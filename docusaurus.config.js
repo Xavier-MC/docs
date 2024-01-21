@@ -109,11 +109,11 @@ const config = {
                 href: 'https://github.com/Xavier-MC',
               },
 			  {
-				html: `
-				<a href="https://www.vercel.com?utm_source=leavesmc&utm_campaign=oss" target="_blank" rel="noreferrer noopener" aria-label="Power by Vercel">
-					<img src="/img/vercel.svg" alt="Power by Vercel" width="200" height="100" />
-				</a>
-				`  
+          html: `
+          <a href="https://www.vercel.com?utm_source=leavesmc&utm_campaign=oss" target="_blank" rel="noreferrer noopener" aria-label="Power by Vercel">
+            <img src="/img/vercel.svg" alt="Power by Vercel" width="200" height="100" />
+          </a>
+          `  
 			  },
             ],
           },
