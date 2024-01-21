@@ -92,7 +92,11 @@ sidebar_position: 1
 ## **写在最后**
 
 欢迎大家来游玩我们Xavier纯生存服务器！
+
 我们的QQ群：436392446
+
 服务器IP（Java 需正版）：zz.xaviermc.top:20002
+
 服务器IP（基岩版）：zz.xaviermc.top 端口20002
+
 [![BE.jpg](https://img1.imgtp.com/2024/01/17/rgTM3PAz.jpg)](https://img1.imgtp.com/2024/01/17/rgTM3PAz.jpg)
