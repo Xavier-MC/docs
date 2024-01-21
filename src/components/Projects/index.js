@@ -5,8 +5,8 @@ import styles from './styles.module.css';
 
 const ProjectList = [
     {
-        title: 'Xavier',
-        description: <>服务器</>,
+        title: 'Xavier纯生存服务器',
+        description: <>服务器帮助中心</>,
         repo: "Xavier-MC/docs",
         link: "/docs/intro",
     },
