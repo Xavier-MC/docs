@@ -106,19 +106,18 @@ const config = {
               },
             ],
           },
+        ],
+        // Move the HTML part to the items array
+        items: [
           {
             html: `
-            <a href="https://www.vercel.com?utm_source=leavesmc&utm_campaign=oss" target="_blank" rel="noreferrer noopener" aria-label="Power by Vercel">
-              <img src="/img/vercel.svg" alt="Power by Vercel" width="200" height="100" />
-            </a>
+              <a href="https://www.vercel.com?utm_source=leavesmc&utm_campaign=oss" target="_blank" rel="noreferrer noopener" aria-label="Power by Vercel">
+                <img src="/img/vercel.svg" alt="Power by Vercel" width="200" height="100" />
+              </a>
             `
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} XavierMC and Contributors, Inc. Built with Docusaurus.`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
       },
     }),
 };
