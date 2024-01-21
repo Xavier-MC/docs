@@ -8,7 +8,7 @@ function Feature({ description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        {/* You can keep an empty div or customize as needed */}
+        {}
         <div className={styles.featureSvg}></div>
       </div>
       <div className="text--center padding-horiz--md" style={{ background: 'white' }}>
