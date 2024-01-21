@@ -101,24 +101,17 @@ const config = {
             title: '更多',
             items: [
               {
-                label: '主页',
-                href: 'https://mc.xaviermc.top',
+                label: '服主博客',
+                href: 'https://xaviermc.top',
               },
               {
                 label: 'GitHub',
                 href: 'https://github.com/Xavier-MC',
               },
-			  {
-          html: `
-          <a href="https://vercel.com/xaviermcs-projects?utm_source=leavesmc&utm_campaign=oss" target="_blank" rel="noreferrer noopener" aria-label="Power by Vercel">
-            <img src="/img/vercel.svg" alt="Power by Vercel" width="200" height="100" />
-          </a>
-          `  
-			  },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} XavierMC and Contributors. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} XavierMC and Contributors, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
