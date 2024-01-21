@@ -1,34 +1,43 @@
 import React from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.css';
+import Link from "@docusaurus/Link";
+import styles from './style.module.css';
 
-const FeatureList = [];
 
-function Feature({ description }) {
-  return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        {}
-        <div className={styles.featureSvg}></div>
-      </div>
-      <div className="text--center padding-horiz--md" style={{ background: 'white' }}>
-        <p>{description}</p>
-      </div>
-    </div>
-  );
-}
+const ProjectList = [
+    {
+        title: 'Xavier',
+        description: <>服务器</>,
+        repo: "Xavier-MC/docs",
+        link: "/docs",
+    },
+];
 
-export default function HomepageFeatures() {
-  return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+function Projects({title, description, repo, link}) {
+    return (
+        <div className={styles.project}>
+            <div className={styles.flex}>
+                <Link className={styles.projectGitHub} to={`https://github.com/${repo}`}>
+                    {title}
+                </Link>
+                <p>{description}</p>
+            </div>
+            <div>
+                <Link className="button button--primary" to={link}>
+                    Go
+                </Link>
+            </div>
         </div>
-      </div>
-    </section>
-  );
+    );
 }
 
+export default function IndexProjects() {
+    return (
+        <section className={styles.projects}>
+            <div className={styles.projectsContainer}>
+                {ProjectList.map((project, index) => (
+                    <Projects key={index} {...project} />
+                ))}
+            </div>
+        </section>
+    );
+}
