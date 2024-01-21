@@ -2,23 +2,16 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-const FeatureList = [
-  {
-    title: 'XavierMC',
-    description: <Translate>Fork of Paper aimed at repairing broken vanilla properties.</Translate>,
-    repo: "LeavesMC/Leaves",
-    link: "/leaves",
-},
-];
+const FeatureList = [];
 
-function Feature({Svg, title, description}) {
+function Feature({ description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {/* You can keep an empty div or customize as needed */}
+        <div className={styles.featureSvg}></div>
       </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+      <div className="text--center padding-horiz--md" style={{ background: 'white' }}>
         <p>{description}</p>
       </div>
     </div>
@@ -38,3 +31,4 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+
