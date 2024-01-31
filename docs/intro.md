@@ -111,7 +111,7 @@ sidebar_position: 1
   marginwidth="0"
   marginheight="0"
   width="1000px"
-  height="390px"
+  height="195px"
   scrolling="no"
   src="//motdbe.blackbe.work/iframe.html?ip=zz.xaviermc.top&port=20002&dark=false&join_open=true"
 ></iframe>
