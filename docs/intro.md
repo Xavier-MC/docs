@@ -105,15 +105,13 @@ sidebar_position: 1
 
 服务器IP（基岩版）：zz.xaviermc.top 端口20002
 
-[![BE.jpg](https://img1.imgtp.com/2024/01/17/rgTM3PAz.jpg)](https://img1.imgtp.com/2024/01/17/rgTM3PAz.jpg)
-
 <iframe
   frameborder="no"
   border="0"
   marginwidth="0"
   marginheight="0"
-  width="500px"
-  height="195px"
+  width="100px"
+  height="390px"
   scrolling="no"
   src="//motdbe.blackbe.work/iframe.html?ip=zz.xaviermc.top&port=20002&dark=false&join_open=true"
 ></iframe>
