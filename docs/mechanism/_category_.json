@@ -1,8 +1,8 @@
 {
-  "label": "生电特性",
+  "label": "特性",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "服务器内已经开放的生电特性"
+    "description": "服务器内已经开放的特性清单"
   }
 }
