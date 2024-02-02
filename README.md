@@ -44,4 +44,5 @@ The XavierMC logomark is subject to its own terms and does not inherit a license
 [vercel]: https://vercel.com?utm_source=leavesmc&utm_campaign=oss
 
 Preview and production hosting for this project has been provided for free by [Vercel]. Thank you!
+
 [![Vercel](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg)][vercel]
