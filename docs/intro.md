@@ -118,3 +118,8 @@ sidebar_position: 1
   src="//motdbe.blackbe.work/iframe.html?ip=zz.xaviermc.top&port=20002&dark=false&join_open=true"
 ></iframe>
 
+:::tip
+
+上方motd显示的种子并非服务器真实种子。
+
+:::
