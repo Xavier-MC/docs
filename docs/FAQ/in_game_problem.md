@@ -14,7 +14,7 @@ sidebar_position: 2
 
 :::
 
-#### 点击此链接(https://link.geysermc.org/method/online)进行绑定，绑定成功后过一段时间进服即可。
+#### 点击此链接 (https://link.geysermc.org/method/online) 进行绑定，绑定成功后过一段时间进服即可。
 
 ### 2.我的机器、家等遭到严重破坏怎么办？
 
