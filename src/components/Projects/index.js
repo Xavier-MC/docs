@@ -7,14 +7,14 @@ const ProjectList = [
     {
         title: 'Xavier',
         description: <>一个高版本的纯生存互通服务器</>,
-        repo: "Xavier-MC/docs",
-        link: "Xavier/intro",
+        repo: "Xavier-MC",
+        link: "/Xavier/intro",
     },
     {
         title: 'TaskScheduler',
         description: <>一个定时任务插件</>,
-        repo: "Xavier-MC/docs",
-        link: "TaskScheduler/intro",
+        repo: "CerealAxis/TaskScheduler",
+        link: "/TaskScheduler/intro",
     },
 ];
 
