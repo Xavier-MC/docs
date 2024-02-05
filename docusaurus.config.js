@@ -65,9 +65,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Xavier/intro',
             position: 'left',
-            label: '文档',
+            label: '服务器',
+          },
+          {
+            type: 'doc',
+            docId: 'TaskScheduler/intro',
+            position: 'left',
+            label: 'TaskSchduler',
           },
           {
             href: 'https://github.com/Xavier-MC',
