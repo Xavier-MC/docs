@@ -86,11 +86,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '文档',
+            title: '服务器文档',
             items: [
               {
-                label: '文档',
-                to: '/docs/intro',
+                label: '服务器文档',
+                to: '/Xavier/intro',
               },
             ],
           },
