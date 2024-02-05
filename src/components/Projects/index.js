@@ -8,7 +8,13 @@ const ProjectList = [
         title: 'Xavier',
         description: <>一个高版本的纯生存互通服务器</>,
         repo: "Xavier-MC/docs",
-        link: "/docs/intro",
+        link: "/docs/Xavier/intro",
+    },
+    {
+        title: 'TaskScheduler',
+        description: <>一个定时任务插件</>,
+        repo: "Xavier-MC/docs",
+        link: "docs/TaskScheduler/intro",
     },
 ];
 
