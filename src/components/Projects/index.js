@@ -14,7 +14,7 @@ const ProjectList = [
         title: 'TaskScheduler',
         description: <>一个定时任务插件</>,
         repo: "Xavier-MC/docs",
-        link: "docs/TaskScheduler/intro",
+        link: "/docs/TaskScheduler/intro",
     },
 ];
 
