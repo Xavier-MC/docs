@@ -90,7 +90,7 @@ const config = {
             items: [
               {
                 label: '服务器文档',
-                to: '/Xavier/intro',
+                to: '/docs/Xavier/intro',
               },
             ],
           },
