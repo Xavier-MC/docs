@@ -17,7 +17,7 @@ sidebar_position: 1
 
 ## sand_fix_duping
 
-- **启用状态**: `false`
+- **启用状态**: `true`
 - **简介**: 刷沙机。
 
 ## allow-piston-duplication
