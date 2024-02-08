@@ -12,7 +12,7 @@ sidebar_position: 6
 
 ## 金牌赞助者
 
-### 1.**bilidilill** `230￥`
+### 1.**bilidilill** `260￥`
 
 ## 银牌赞助者
 ### 1.**囧龍** `50￥`
