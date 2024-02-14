@@ -25,9 +25,11 @@ sidebar_position: 6
 
 ## 银牌赞助者
 
-### 1.**qianlomg_wts**
+### 1.**QIGAILINGZHU**
 
-### 2.**AAA-十年一刻**
+### 2.**qianlomg_wts**
+
+### 3.**AAA-十年一刻**
 
 :::note
 
