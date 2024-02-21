@@ -20,8 +20,8 @@ sidebar_position: 6
 |/leaves counter|基本指令||
 |/leaves counter enable|启用服务器漏斗计数功能||
 |/leaves counter disable|关闭服务器漏斗计数功能||
-|/leaves counter <color> reset|计数器清零|若color参数不填则归零全部的漏斗计数器|
-|/leaves counter <color> realtime|查看对应color颜色漏斗的物品通过效率|color参数不可忽略|
+|/leaves counter [color] reset|计数器清零|若color参数不填则归零全部的漏斗计数器|
+|/leaves counter [color] realtime|查看对应color颜色漏斗的物品通过效率|color参数不可忽略|
 
 :::tip
 
