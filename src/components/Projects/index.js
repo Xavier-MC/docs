@@ -16,9 +16,15 @@ const ProjectList = [
         repo: "CerealAxis/TaskScheduler",
         link: "/docs/TaskScheduler/intro",
     },
+    {
+        title: 'ISeeYou',
+        description: <>一个调用Leaves-API的摄像头插件</>,
+        repo: "Xavier-MC/ISeeYou",
+        link: "/docs/ISeeYou/intro",
+    }
 ];
 
-function Projects({title, description, repo, link}) {
+function Projects({ title, description, repo, link }) {
     return (
         <div className={styles.project}>
             <div className={styles.flex}>
