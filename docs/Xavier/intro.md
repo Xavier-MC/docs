@@ -30,9 +30,15 @@ sidebar_position: 1
 
 | Java版 | 基岩版 |
 | --- | --- |
-| 1.20.X | 1.20.40/41-1.20.60/62 |
+| 1.20.X | 1.20.40/41-1.20.70/71 |
 
 服务器核心为1.20.4且会时刻跟进最新版本。
+
+:::tip
+
+推荐使用Java的1.20.4和基岩版的1.20.70/71版本游玩服务器。
+
+:::
 
 ### **特色**
 
@@ -55,29 +61,34 @@ sidebar_position: 1
 
 ##### **Carpet**
 
-* 进入服务器后，玩家的客户端会认为进入了一个Carpet服务器，并提供部分对应客户端支持。（目前已经支持轻松放置、假人、漏斗计数等功能）
+进入服务器后，玩家的客户端会认为进入了一个Carpet服务器，并提供部分对应客户端支持。（目前已经支持轻松放置、假人、漏斗计数等功能）
 
 ##### **Syncmatica**
 
-* 已支持服务器内的原理图（单原理图限制：40000000字节）共享，方便团队协作，提高效率。
+已支持服务器内的原理图（单原理图限制：40000000字节）共享，方便团队协作，提高效率。
 
 ##### **Simple Voice Chat**
 
-* 服务器已支持安装了Simple Voice Chat模组的玩家在服务器内实现语音通话。
-* [![语音通话.jpg](https://img1.imgtp.com/2024/01/17/lXs2jIfL.jpg)](https://img1.imgtp.com/2024/01/17/lXs2jIfL.jpg)
+服务器已支持安装了Simple Voice Chat模组的玩家在服务器内实现语音通话。
+
+[![语音通话.jpg](https://img1.imgtp.com/2024/01/17/lXs2jIfL.jpg)](https://img1.imgtp.com/2024/01/17/lXs2jIfL.jpg)
 
 ##### **Appleskin**
 
-* 添加服务端支持以配合该模组实现如下效果：
-* [![Appleskin-1.png](https://img1.imgtp.com/2024/01/17/EacOiLsc.png)](https://img1.imgtp.com/2024/01/17/EacOiLsc.png)
-* [![Appleskin-2.gif](https://img1.imgtp.com/2024/01/17/3V7oWPsg.gif)](https://img1.imgtp.com/2024/01/17/3V7oWPsg.gif)
-* [![Appleskin-3.gif](https://img1.imgtp.com/2024/01/17/JNBDekZA.gif)](https://img1.imgtp.com/2024/01/17/JNBDekZA.gif)
-* [![Appleskin-4.gif](https://img1.imgtp.com/2024/01/17/kkdD91Tu.gif)](https://img1.imgtp.com/2024/01/17/kkdD91Tu.gif)
+添加服务端支持以配合该模组实现如下效果：
+
+[![Appleskin-1.png](https://img1.imgtp.com/2024/01/17/EacOiLsc.png)](https://img1.imgtp.com/2024/01/17/EacOiLsc.png)
+
+[![Appleskin-2.gif](https://img1.imgtp.com/2024/01/17/3V7oWPsg.gif)](https://img1.imgtp.com/2024/01/17/3V7oWPsg.gif)
+
+[![Appleskin-3.gif](https://img1.imgtp.com/2024/01/17/JNBDekZA.gif)](https://img1.imgtp.com/2024/01/17/JNBDekZA.gif)
+
+[![Appleskin-4.gif](https://img1.imgtp.com/2024/01/17/kkdD91Tu.gif)](https://img1.imgtp.com/2024/01/17/kkdD91Tu.gif)
 
 ##### **Xaero's Minimap**
 
-* 添加服务端支持以实现来自动在服务器间切换地图，并为地图增添唯一性标识ID
-* [![地图.jpg](https://img1.imgtp.com/2024/01/17/C77aZunC.jpg)](https://img1.imgtp.com/2024/01/17/C77aZunC.jpg)
+添加服务端支持以实现来自动在服务器间切换地图，并为地图增添唯一性标识ID
+[![地图.jpg](https://img1.imgtp.com/2024/01/17/C77aZunC.jpg)](https://img1.imgtp.com/2024/01/17/C77aZunC.jpg)
 
 ##### Wurst部分功能（如搭路、钓鱼、防被踢）\AutoFish等辅助MOD也开放使用（不要自作聪明认为本服允许Wurst等作弊端的作弊功能，本服不是检测不到）
 
