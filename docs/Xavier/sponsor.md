@@ -12,7 +12,8 @@ sidebar_position: 7
 
 ## 金牌赞助者
 
-### **bilidilill** `260¥`
+### **bilidilill** `280¥`
+
 ### **LingZhu3470** `100¥`
 
 ## 银牌赞助者
@@ -36,7 +37,7 @@ sidebar_position: 7
 
 :::note
 
-最后更新时间：2024/03/09
+最后更新时间：2024/04/27
 
 :::
 
