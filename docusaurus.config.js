@@ -65,7 +65,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'docs',
+          docId: 'Xavier/intro',
           position: 'left',
           label: 'Xavier',
         },
@@ -103,7 +103,7 @@ module.exports = {
           items: [
             {
               label: '文档',
-              to: '/docs',
+              to: 'Xavier/intro',
             },
             {
               label:'状态监控',
