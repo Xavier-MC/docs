@@ -111,10 +111,10 @@ module.exports = {
         {
           title: '服务器文档',
           items: [
-            // {
-            //   label: '文档',
-            //   to: '/introduction',
-            // },
+            {
+              label: '文档',
+              to: 'Xavier/intro',
+            },
             {
               label:'状态监控',
               href:'https://stats.uptimerobot.com/Qxm4yIBXYG'
