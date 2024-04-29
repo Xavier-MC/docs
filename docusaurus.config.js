@@ -64,20 +64,31 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
+            type: 'Xavier-docs',
             docId: 'Xavier/intro',
             position: 'left',
-            label: '服务器',
+            label: 'Xavier',
           },
           {
-            type: 'doc',
+            type: 'TaskSchduler-docs',
             docId: 'TaskScheduler/intro',
             position: 'left',
             label: 'TaskSchduler',
           },
           {
+            type: 'ISeeYou-docs',
+            docId: 'ISeeYou/intro',
+            position: 'left',
+            label: 'ISeeYou',
+          },
+          {
             href: 'https://github.com/Xavier-MC',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4wSu8MSC3iKO-dtD18tXazBlu4Q4PKxD&authKey=eAN9u8XjNgtNkpxlIKKUtN6Yp9DpEMQzsY7ZcTdUEZX5Lk8X77x7lF2FNa9Uj435&noverify=0&group_code=436392446',
+            label: 'QQ群',
             position: 'right',
           },
         ],
@@ -103,7 +114,7 @@ const config = {
             items: [
               {
                 label: 'QQ群',
-                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4wSu8MSC3iKO-dtD18tXazBlu4Q4PKxD&authKey=eAN9u8XjNgtNkpxlIKKUtN6Yp9DpEMQzsY7ZcTdUEZX5Lk8X77x7lF2FNa9Uj435&noverify=0&group_code=436392446',
+                href: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4wSu8MSC3iKO-dtD18tXazBlu4Q4PKxD&authKey=eAN9u8XjNgtNkpxlIKKUtN6Yp9DpEMQzsY7ZcTdUEZX5Lk8X77x7lF2FNa9Uj435&noverify=0&group_code=436392446',
               },
             ],
           },
