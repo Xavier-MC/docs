@@ -33,7 +33,7 @@ This command generates static content into the `build` directory and can be serv
 
 ### License
 
-The XavierMC Documentation (e.g., .md files in the /docs folder) is CC-BY-SA-4.0 licensed.
+The XavierMC Documentation (e.g., .md files ) is CC-BY-SA-4.0 licensed.
 
 The supporting code is BSD-2-Clause licensed.
 
