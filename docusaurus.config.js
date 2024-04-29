@@ -42,15 +42,18 @@ module.exports = {
         path: 'ISeeYou',
         routeBasePath: 'ISeeYou',
         sidebarPath: require.resolve('./sidebarsISeeYou.js'),
-      },
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
       {
         id: 'TaskScheduler',
         path: 'TaskScheduler',
         routeBasePath: 'TaskScheduler',
         sidebarPath: require.resolve('./sidebarsTaskScheduler.js'),
-      },
-    ],
-  ],
+      }
+    ]
+  ],  
 
   themeConfig: {
     navbar: {
