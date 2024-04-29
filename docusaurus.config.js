@@ -64,19 +64,19 @@ const config = {
         },
         items: [
           {
-            type: 'docs',
+            type: 'doc',
             docId: 'Xavier/intro',
             position: 'left',
             label: 'Xavier',
           },
           {
-            type: 'docs',
+            type: 'doc',
             docId: 'TaskScheduler/intro',
             position: 'left',
             label: 'TaskSchduler',
           },
           {
-            type: 'docs',
+            type: 'doc',
             docId: 'ISeeYou/intro',
             position: 'left',
             label: 'ISeeYou',
