@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# 介绍
+# TaskScheduler
 
-## TaskScheduler: 定时任务执行
+_一个轻量级定时任务插件_
 
 ## 支持的版本
 | 平台     | 版本     |
@@ -14,7 +14,11 @@ sidebar_position: 1
 | Purpur   | 1.20+    |
 | Leaves   | 1.20+    |
 
-### 注意：其他Spigot的分支版本未经测试，可能无法正常运行！
+```tips
+
+其他Spigot的分支版本未经测试，可能无法正常运行！
+
+```
 
 ## 发布平台
 | 平台             |URL|
@@ -24,7 +28,7 @@ sidebar_position: 1
 | Github (正式版)   |https://github.com/CerealAxis/TaskScheduler/releases|
 | Github (开发版)   |https://github.com/CerealAxis/TaskScheduler/actions|
 
-## Config
+## 配置文件
 ```yml
 # config-version:3.0
 # 配置文件于1.1.4版本后有改变，请仔细检查并修改后后再使用！
@@ -63,7 +67,11 @@ clearing:
 ```
 ## 命令
 
-#### 命令里面的 **ts** 也可以写为 TaskScheduler
+```tips
+
+命令里面的 ts 也可以写为 TaskScheduler
+
+```
 
 | Command       | Description |
 |---------------|-------------|

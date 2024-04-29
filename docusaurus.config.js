@@ -59,7 +59,7 @@ const config = {
       navbar: {
         title: 'XavierMC',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'XavierMC',
           src: 'img/logo.svg',
         },
         items: [
@@ -89,9 +89,13 @@ const config = {
             title: '服务器文档',
             items: [
               {
-                label: '服务器文档',
+                label: '文档',
                 to: '/docs/Xavier/intro',
               },
+              {
+                label:'状态监控',
+                href:'https://stats.uptimerobot.com/Qxm4yIBXYG'
+              }
             ],
           },
           {
@@ -111,7 +115,7 @@ const config = {
                 href: 'https://xaviermc.top',
               },
               {
-                label: 'GitHub',
+                label: 'GitHub仓库',
                 href: 'https://github.com/Xavier-MC',
               },
               {
