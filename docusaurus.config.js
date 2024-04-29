@@ -43,6 +43,12 @@ module.exports = {
         routeBasePath: 'ISeeYou',
         sidebarPath: require.resolve('./sidebarsISeeYou.js'),
       },
+      {
+        id: 'TaskScheduler',
+        path: 'TaskScheduler',
+        routeBasePath: 'TaskScheduler',
+        sidebarPath: require.resolve('./sidebarsTaskScheduler.js'),
+      },
     ],
   ],
 
@@ -61,14 +67,15 @@ module.exports = {
           label: 'Xavier',
         },
         {
-          type: 'doc',
-          docId: 'TaskScheduler/intro',
+          type: 'docSidebar',
+          sidebarId: 'TaskSchedulerSidebar',
           position: 'left',
-          label: 'TaskSchduler',
+          label: 'TaskScheduler',
+          docsPluginId: 'TaskScheduler'
         },
         {
           type: 'docSidebar',
-          sidebarId: 'docs2Sidebar',
+          sidebarId: 'ISeeYouSidebar',
           position: 'left',
           label: 'ISeeYou',
           docsPluginId: 'ISeeYou'
