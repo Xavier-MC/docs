@@ -8,19 +8,19 @@ const ProjectList = [
         title: 'Xavier',
         description: <>一个高版本的纯生存互通服务器</>,
         repo: "Xavier-MC/",
-        link: "/docs/Xavier/intro",
+        link: "/Xavier/intro",
     },
     {
         title: 'TaskScheduler',
         description: <>一个定时任务插件</>,
         repo: "CerealAxis/TaskScheduler",
-        link: "/docs/TaskScheduler/intro",
+        link: "/TaskScheduler/intro",
     },
     {
         title: 'ISeeYou',
         description: <>一个调用Leaves-API的摄像头插件</>,
         repo: "Xavier-MC/ISeeYou",
-        link: "/docs/ISeeYou/intro",
+        link: "/ISeeYou/intro",
     }
 ];
 
