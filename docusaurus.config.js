@@ -10,8 +10,8 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  organizationName: 'XavierMC', 
-  projectName: 'XavierMC Docs', 
+  organizationName: 'XavierMC',
+  projectName: 'XavierMC Docs',
 
   i18n: {
     defaultLocale: 'zh-Hans',
@@ -62,7 +62,7 @@ module.exports = {
         sidebarPath: require.resolve('./sidebarsTaskScheduler.js'),
       }
     ]
-  ],  
+  ],
 
   themeConfig: {
     navbar: {
@@ -70,6 +70,19 @@ module.exports = {
       logo: {
         alt: 'XavierMC',
         src: 'img/logo.svg',
+      },
+      algolia: {
+        appId: "OU9XT8Y9LS",
+        apiKey: "85be3e345a78b233fab09190ad4bfec4",
+        indexName: "xaviermc",
+        contextualSearch: true,
+        externalUrlRegex: 'external\\.com|domain\\.com',
+        replaceSearchResultPathname: {
+          from: '/docs/', // or as RegExp: /\/docs\//
+          to: '/',
+        },
+        searchParameters: {},
+        searchPagePath: 'search',
       },
       items: [
         {
@@ -116,8 +129,8 @@ module.exports = {
               to: 'Xavier/intro',
             },
             {
-              label:'状态监控',
-              href:'https://stats.uptimerobot.com/Qxm4yIBXYG'
+              label: '状态监控',
+              href: 'https://stats.uptimerobot.com/Qxm4yIBXYG'
             }
           ],
         },
@@ -150,7 +163,7 @@ module.exports = {
             },
           ],
         },
-        
+
       ],
       copyright: `Copyright © ${new Date().getFullYear()} XavierMC and Contributors, Inc. Built with Docusaurus.`,
     },
