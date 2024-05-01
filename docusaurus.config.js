@@ -72,7 +72,7 @@ module.exports = {
       contextualSearch: true,
       externalUrlRegex: 'external\\.com|domain\\.com',
       replaceSearchResultPathname: {
-        from: '/docs/', // or as RegExp: /\/docs\//
+        from: ['/docs/', '/ISeeYou/','Xavier','TaskScheduler'],
         to: '/',
       },
       searchParameters: {},
