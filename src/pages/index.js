@@ -2,6 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import { Analytics } from '@vercel/analytics/react'
 import Layout from '@theme/Layout';
 import IndexProjects from '@site/src/components/Projects';
 
@@ -25,6 +26,7 @@ export default function Home() {
       <main>
         <IndexProjects />
       </main>
+      <Analytics />
     </Layout>
   );
 }
