@@ -65,24 +65,24 @@ module.exports = {
   ],
 
   themeConfig: {
+    algolia: {
+      appId: "OU9XT8Y9LS",
+      apiKey: "85be3e345a78b233fab09190ad4bfec4",
+      indexName: "xaviermc",
+      contextualSearch: true,
+      externalUrlRegex: 'external\\.com|domain\\.com',
+      replaceSearchResultPathname: {
+        from: '/docs/', // or as RegExp: /\/docs\//
+        to: '/',
+      },
+      searchParameters: {},
+      searchPagePath: 'search',
+    },
     navbar: {
       title: 'XavierMC',
       logo: {
         alt: 'XavierMC',
         src: 'img/logo.svg',
-      },
-      algolia: {
-        appId: "OU9XT8Y9LS",
-        apiKey: "85be3e345a78b233fab09190ad4bfec4",
-        indexName: "xaviermc",
-        contextualSearch: true,
-        externalUrlRegex: 'external\\.com|domain\\.com',
-        replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
-        },
-        searchParameters: {},
-        searchPagePath: 'search',
       },
       items: [
         {
