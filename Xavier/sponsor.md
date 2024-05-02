@@ -32,7 +32,7 @@ sidebar_position: 7
 
 **QIGAILINGZHU**
 
-**bad mood**
+**bad_mood**
 
 **qianlomg_wts**
 
@@ -40,15 +40,11 @@ sidebar_position: 7
 
 :::tip
 
-更新声明
-
 最新更新日期：2024年05月02日
 
 :::
 
 :::tip
-
-注意事项
 
 鉴于时间跨度较大，本名单可能存在部分赞助者的遗漏。如有疏漏，请及时联系服主进行补录。
 
