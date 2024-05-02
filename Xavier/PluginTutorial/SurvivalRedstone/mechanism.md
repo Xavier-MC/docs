@@ -1,12 +1,10 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # 特性清单
 
 :::note
-
-本服的宗旨就是尽可能贴近Java原版的游戏表现。
 
 如果本服表现与**服务器核心同版本的Java客户端单人存档**表现不一致，
 
