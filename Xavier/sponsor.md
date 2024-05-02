@@ -20,6 +20,8 @@ sidebar_position: 7
 
 **囧龍** 🌟 `50¥`
 
+**mutoumao** 🌟 `50¥`
+
 **sunsunsvmc** 🌟 `40¥`
 
 **huaji** 🌟 `25¥`
@@ -29,6 +31,8 @@ sidebar_position: 7
 ## 铜牌赞助伙伴
 
 **QIGAILINGZHU**
+
+**bad mood**
 
 **qianlomg_wts**
 
