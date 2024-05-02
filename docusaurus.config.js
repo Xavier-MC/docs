@@ -69,7 +69,7 @@ module.exports = {
       appId: "OU9XT8Y9LS",
       apiKey: "85be3e345a78b233fab09190ad4bfec4",
       indexName: "xaviermc",
-      contextualSearch: true,
+      contextualSearch: false,
       externalUrlRegex: 'external\\.com|domain\\.com',
       replaceSearchResultPathname: {
         from: ['/docs/', '/ISeeYou/','Xavier','TaskScheduler'],
