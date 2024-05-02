@@ -116,9 +116,8 @@ sidebar_position: 1
 
 主节点（郑州）：
 
-||||
-|-|-|-|
 |节点|Java版|基岩版|
+|-|-|-|
 |郑州|zz.xaviermc.top:20002|IP(zz.xaviermc.top)，端口20002|
 |成都|cd.xaviermc.top:40265|IP(cd.xaviermc.top)，端口15999|
 
