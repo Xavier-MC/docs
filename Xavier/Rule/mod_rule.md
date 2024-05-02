@@ -24,8 +24,6 @@ sidebar_position: 3
 
   我们可能由于监管、保护与游戏玩法的原因，禁止使用部分 Minecraft 模组加载器（Minecraft 模组加载器包括但不限于 Forge、Fabric、LiteLoader、Rift 与 Quilt）、Minecraft 第一方客户端 与 Minecraft 第三方客户端（Minecraft 第三方客户端包括但不限于 Badlion Client、Lunar Client）的玩家登录Xavier开放的服务器并在Xavier开放的服务器中游玩。
 
-
-
 ## ◎ 允许使用的模组类型
 
 ### 优化类模组
@@ -52,8 +50,6 @@ sidebar_position: 3
 
   例如 Inventory Tweaks（一键整理）、Mouse Tweaks（鼠标手势）等。
 
-
-
 ## ◎ 禁止使用的模组类型
 
 ### 作弊类模组
@@ -63,7 +59,6 @@ sidebar_position: 3
 ### 人工智能类模组
 
   禁止使用提供人工智能、自动化操作等功能的模组，这将为玩家提供不公平的优势。
-
 
 ### 地图种子计算类模组
 
