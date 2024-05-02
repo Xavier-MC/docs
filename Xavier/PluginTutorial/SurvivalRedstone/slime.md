@@ -21,6 +21,7 @@ sidebar_position: 4
    ```
 
 2. 聊天框中会发送查询结果给玩家，如图所示
+
    ![1714656162257.png](https://img2.imgtp.com/2024/05/02/hqGjqmye.png)：
 
    其中最中间的小方块代表玩家所在的区块，每一个小方块都代表一个区块。颜色为绿色则说明此区块为史莱姆区块，反之则不是。
@@ -29,6 +30,6 @@ sidebar_position: 4
 
 Java版玩家可将鼠标放置在小方块上方，获取更多信息。
 
-![1714656162257.png](https://img2.imgtp.com/2024/05/02/hqGjqmye.png)
+![1714656294560.png](https://img2.imgtp.com/2024/05/02/HTg0Geo5.png)
 
 :::
