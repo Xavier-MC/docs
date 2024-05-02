@@ -2,13 +2,17 @@
 sidebar_position: 1
 ---
 
-# 基本介绍
+# 简单介绍
+
+:::tip
+
+本站已接入阿里云CDN/Vercel CDN进行全球加速。如出现无法打开的情况请反馈给服主：CerealAxis@XavierMC.top。欢迎加入我们的[QQ交流群](https://qm.qq.com/q/BiCHWlypxu)！
+
+:::
 
 ## **前言**
 
 我们的目标是创建一个人人都爱玩的纯生存服务器
-
-欢迎建筑党，生存党，生电党来玩，服务器比较自由不限制红石。
 
 ![line4.png](https://klpbbs.com/static/image/hrline/line4.png)
 
@@ -24,19 +28,17 @@ sidebar_position: 1
 
 ### **兼容**
 
-我们服务器可以使用Java版与基岩版进入服务器
+我们服务器可以同时使用Java版与基岩版进入服务器
 
-截至发帖时间（2024年04月27日），我们支持如下游戏版本：
+截至发帖时间（2024年05月02日），我们支持如下游戏版本进入服务器：
 
 | Java版 | 基岩版 |
 | --- | --- |
-| 1.20.X | 1.20.40/41-1.20.80 |
-
-服务器核心为1.20.4且会时刻跟进最新版本。
+| 1.20.0-1.20.6 | 1.20.40/41-1.20.80 |
 
 :::tip
 
-推荐使用Java的1.20.4和基岩版的1.20.70/71版本游玩服务器。
+推荐使用Java的1.20.4和基岩版的1.20.80版本游玩服务器。
 
 :::
 
@@ -90,8 +92,6 @@ sidebar_position: 1
 添加服务端支持以实现来自动在服务器间切换地图，并为地图增添唯一性标识ID
 [![地图.jpg](https://img1.imgtp.com/2024/01/17/C77aZunC.jpg)](https://img1.imgtp.com/2024/01/17/C77aZunC.jpg)
 
-##### Wurst部分功能（如搭路、钓鱼、防被踢）\AutoFish等辅助MOD也开放使用（不要自作聪明认为本服允许Wurst等作弊端的作弊功能，本服不是检测不到）
-
 ##### **更多Mod等待适配ing**
 
 #### **活动丰富**
@@ -102,9 +102,9 @@ sidebar_position: 1
 
 <br/>
 
+
 <iframe src="//player.bilibili.com/player.html?aid=778143945&bvid=BV1Fy4y1d7mz&cid=975668830&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-今年2024年跨年活动正在筹备ing ????
 
 ![line4.png](https://klpbbs.com/static/image/hrline/line4.png)
 
@@ -116,15 +116,17 @@ sidebar_position: 1
 
 主节点（郑州）：
 
-Java版：zz.xaviermc.top:20002
+||||
+|-|-|-|
+|节点|Java版|基岩版|
+|郑州|zz.xaviermc.top:20002|IP(zz.xaviermc.top)，端口20002|
+|成都|cd.xaviermc.top:40265|IP(cd.xaviermc.top)，端口15999|
 
-基岩版：服务器地址（zz.xaviermc.top） 端口（20002）
+:::tip
 
-专用节点（成都）：
+以上节点任选其一均可加入服务器。玩家可自行选择延迟较低的节点进行连接。服务器主节点为郑州服
 
-Java：cd.xaviermc.top:40265
-
-基岩版：服务器地址（cd.xaviermc.top） 端口（15999）
+:::
 
 <iframe
   frameborder="no"
