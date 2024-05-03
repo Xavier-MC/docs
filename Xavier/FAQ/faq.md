@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Q&A
+# FAQ
 
 Q: 为什么不能正常刷怪？
 
