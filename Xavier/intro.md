@@ -10,15 +10,15 @@ sidebar_position: 1
 
 :::
 
-## **前言**
+## 前言
 
 我们的目标是创建一个人人都爱玩的纯生存服务器
 
 ![line4.png](https://klpbbs.com/static/image/hrline/line4.png)
 
-## **服务器介绍**
+## 服务器介绍
 
-### **插件与玩法**
+### 插件与玩法
 
 服务器为原版生存，并未添加任何改变原版游戏玩法的插件。
 
@@ -26,7 +26,7 @@ sidebar_position: 1
 
 用于维护服务器内的游戏环境。
 
-### **兼容**
+### 兼容
 
 我们服务器可以同时使用Java版与基岩版进入服务器
 
@@ -34,17 +34,28 @@ sidebar_position: 1
 
 | Java版 | 基岩版 |
 | --- | --- |
-| 1.20.0-1.20.6 | 1.20.40/41-1.20.80 |
+| 1.20.0-1.20.6 | 1.20.40/41-1.20.80/81 |
 
 :::tip
 
-推荐使用Java的1.20.4和基岩版的1.20.80版本游玩服务器。
+推荐使用Java的1.20.4和基岩版的1.20.80/81版本游玩服务器。
 
 :::
 
-### **特色**
+### 基本情况
 
-#### **假人支持**
+| 项目 | 值 |补充|
+| --- | --- |-|
+| 死亡掉落 |是 |提供5小时新手保护期，保护期内近似为死亡不掉落模式|
+|游戏难度|困难（hard）||
+|世界大小|无限制||
+|正版验证|是|基岩版玩家无此限制|
+|出生点保护半径|8|出生点半径为8的范围内方块禁止被破坏|
+|view-distance|-1|服务器始终以最大值向玩家发送地图数据。可视距离仅由玩家的客户端决定。|
+
+### 特色
+
+#### [假人支持](https://docs.xaviermc.top/Xavier/PluginTutorial/SurvivalRedstone/bot)
 
 为了更好的利好服务器内的生电党，管理层从服务器核心入手，内置支持了Carpet的部分功能，无偿提供假人挂机服务。
 
@@ -52,7 +63,7 @@ sidebar_position: 1
 
 [![假人2.jpg](https://img1.imgtp.com/2024/01/17/OX4BJYkp.jpg)](https://img1.imgtp.com/2024/01/17/OX4BJYkp.jpg)
 
-#### **模组适配**
+#### 模组适配
 
 为了优化玩家们的游戏体验，管理层挑选了部分玩家用得比较多的模组并进行适配。当前适配的有如下Mod：
 :::note
@@ -61,21 +72,21 @@ sidebar_position: 1
 
 :::
 
-##### **Carpet**
+##### Carpet
 
 进入服务器后，玩家的客户端会认为进入了一个Carpet服务器，并提供部分对应客户端支持。（目前已经支持轻松放置、假人、漏斗计数等功能）
 
-##### **Syncmatica**
+##### [Syncmatica](https://docs.xaviermc.top/Xavier/PluginTutorial/SurvivalRedstone/syncmatica)
 
 已支持服务器内的原理图（单原理图限制：40000000字节）共享，方便团队协作，提高效率。
 
-##### **Simple Voice Chat**
+##### [Simple Voice Chat](https://docs.xaviermc.top/Xavier/PluginTutorial/SurvivalRedstone/voice)
 
 服务器已支持安装了Simple Voice Chat模组的玩家在服务器内实现语音通话。
 
 [![语音通话.jpg](https://img1.imgtp.com/2024/01/17/lXs2jIfL.jpg)](https://img1.imgtp.com/2024/01/17/lXs2jIfL.jpg)
 
-##### **Appleskin**
+##### Appleskin
 
 添加服务端支持以配合该模组实现如下效果：
 
@@ -87,14 +98,14 @@ sidebar_position: 1
 
 [![Appleskin-4.gif](https://img1.imgtp.com/2024/01/17/kkdD91Tu.gif)](https://img1.imgtp.com/2024/01/17/kkdD91Tu.gif)
 
-##### **Xaero's Minimap**
+##### Xaero's Minimap
 
 添加服务端支持以实现来自动在服务器间切换地图，并为地图增添唯一性标识ID
 [![地图.jpg](https://img1.imgtp.com/2024/01/17/C77aZunC.jpg)](https://img1.imgtp.com/2024/01/17/C77aZunC.jpg)
 
-##### **更多Mod等待适配ing**
+##### 更多Mod等待适配ing
 
-#### **活动丰富**
+#### 活动丰富
 
 本服自2022年创建以来，举办多多次大型活动，如跨纬度战争、跨年等等
 
@@ -102,13 +113,11 @@ sidebar_position: 1
 
 <br/>
 
-
 <iframe src="//player.bilibili.com/player.html?aid=778143945&bvid=BV1Fy4y1d7mz&cid=975668830&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 
 ![line4.png](https://klpbbs.com/static/image/hrline/line4.png)
 
-## **写在最后**
+## 写在最后
 
 欢迎大家来游玩我们Xavier纯生存服务器！
 
@@ -120,6 +129,8 @@ sidebar_position: 1
 |-|-|-|
 |郑州|zz.xaviermc.top:20002|IP(zz.xaviermc.top)，端口20002|
 |成都|cd.xaviermc.top:40265|IP(cd.xaviermc.top)，端口15999|
+
+不会加入？点[我](https://docs.xaviermc.top/Xavier/connection_problem)
 
 :::tip
 
