@@ -46,7 +46,7 @@ sidebar_position: 1
 
 | 项目 | 值 |补充|
 | --- | --- |-|
-| 死亡掉落 |是 |提供5小时新手保护期，保护期内近似为死亡不掉落模式|
+| 死亡掉落 |是 |提供5小时[新手保护期](https://docs.xaviermc.top/Xavier/FAQ/freshmen)，保护期内近似为死亡不掉落模式|
 |游戏难度|困难（hard）||
 |世界大小|无限制||
 |正版验证|是|基岩版玩家无此限制|
@@ -143,8 +143,6 @@ sidebar_position: 1
   border="0"
   marginwidth="0"
   marginheight="0"
-  width="1000px"
-  height="195px"
   scrolling="no"
   src="//motdbe.blackbe.work/iframe.html?ip=zz.xaviermc.top&port=20002&dark=false&join_open=true"
 ></iframe>
