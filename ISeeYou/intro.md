@@ -73,7 +73,6 @@ ISeeYou 可以利用 [Leaves](https://leavesmc.org/) 核心提供的 Replay API�
 
 :::
 
-
 ### 使用教程
 
 1. **安装插件**：将插件文件放置在 Leaves 服务器的插件目录下，并重新启动服务器。
@@ -206,6 +205,6 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
 
 - 尽管目前没有因为 reload 导致的 bug 报告，但尽量不要使用 `Plugman` 等插件热重载本插件,这可能会导致许多未知的问题！
 
-## 感谢支持
+## 感谢
 
-感谢您使用 ISeeYou 插件！如果您在使用过程中遇到任何问题或有任何建议，请随时联系作者或提交 [issue](https://github.com/MC-XiaoHei/ISeeYou/issues) 到 GitHub 仓库。
+感谢您使用 ISeeYou 插件！如果您在使用过程中遇到任何问题或有任何建议，请随时提交 [Issue](https://github.com/MC-XiaoHei/ISeeYou/issues) 到 GitHub 仓库。
