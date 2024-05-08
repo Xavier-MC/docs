@@ -8,8 +8,12 @@ sidebar_position: 1
 
 <img src="https://img2.imgtp.com/2024/05/08/3Fj2Vdil.png" alt="Logo" width="100" height="100">
 
-_也可以叫ICU_
+[![GitHub release](https://img.shields.io/github/v/release/MC-XiaoHei/ISeeYou?style=flat-square)](https://github.com/MC-XiaoHei/ISeeYou/releases)
+[![GitHub Actions CI](https://img.shields.io/github/actions/workflow/status/MC-XiaoHei/ISeeYou/release.yml?style=flat-square)](https://github.com/MC-XiaoHei/ISeeYou/actions)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/MC-XiaoHei/ISeeYou/blob/master/LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/MC-XiaoHei/ISeeYou/total?style=flat-square)
 
+_也可以叫ICU_
 
 [中文](https://www.minebbs.com/resources/iseeyou-fork.7276) | [English](https://github.com/MC-XiaoHei/ISeeYou/blob/master/README.MD)
 
@@ -131,11 +135,11 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
 
 :::tip
 
-**`photographer create <name>` 和 `/instantreplay` 指令** 只能由玩家在游戏内执行，不可在服务器控制台中运行。
+`photographer create <name>` 和 `/instantreplay` 指令 只能由玩家在游戏内执行，不可在服务器控制台中运行。
 
-**`photographer create <name> [location]`指令**可以在控制台中执行。
+`photographer create <name> [location]`指令可以在控制台中执行。
 
-**使用 `/instantreplay` 指令前**，请确保已在插件配置文件中开启相关功能。
+使用 `/instantreplay` 指令前，请确保已在插件配置文件中开启相关功能。
 
 :::
 
@@ -168,6 +172,7 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
    ```shell
    git clone https://github.com/MC-XiaoHei/ISeeYou.git
    ```
+
 2. **编译打包**
 
    进入项目根目录，执行如下命令以构建jar包：
@@ -175,6 +180,7 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
    ```shell
    ./gradlew shadowJar
    ```
+
 3. **获取Jar**
 
    编译完成后，你将在`build/libs`目录下找到名为`ISeeYou.jar`的输出文件。
@@ -191,6 +197,4 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
 - 请在使用插件前仔细阅读并配置好 `config.toml` 文件，以确保插件能够正常运行。
 - 尽管目前没有因为 reload 导致的 bug 报告，但尽量不要使用 `Plugman` 等插件热重载本插件,这可能会导致许多未知的问题！
 
-## 感谢
 
-感谢您使用 ISeeYou 插件！如果您在使用过程中遇到任何问题或有任何建议，请随时提交 [Issue](https://github.com/MC-XiaoHei/ISeeYou/issues) 到 GitHub 仓库。
