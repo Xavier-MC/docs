@@ -137,15 +137,15 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
 
 ## 下载
 
-* 稳定版本
+- 稳定版本
 
-  * [GitHub 发布页](https://github.com/MC-XiaoHei/ISeeYou/releases)
+  - [GitHub 发布页](https://github.com/MC-XiaoHei/ISeeYou/releases)
 
-  * [MineBBS](https://www.minebbs.com/resources/iseeyou.7276/)
+  - [MineBBS](https://www.minebbs.com/resources/iseeyou.7276/)
 
-* 开发版本
+- 开发版本
 
-  * [GitHub Actions CI](https://github.com/MC-XiaoHei/ISeeYou/actions/workflows/dev-build.yml?query=is%3Asuccess)
+  - [GitHub Actions CI](https://github.com/MC-XiaoHei/ISeeYou/actions/workflows/dev-build.yml?query=is%3Asuccess)
 
 ### 自行构建
 
