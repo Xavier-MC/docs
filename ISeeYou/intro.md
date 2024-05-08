@@ -21,7 +21,7 @@ _也可以叫ICU_
 
 本插件只能在使用 [Leaves](https://leavesmc.org/) 核心的服务器中运行，不支持其他核心！
 
-:::tips
+:::tip
 
 开发者仅保证**最新正式版**ISeeYou插件在**最新版**Leaves核心的服务器中可正常运行，对老版本兼容性不做维护。
 
@@ -67,7 +67,7 @@ ISeeYou 可以利用 [Leaves](https://leavesmc.org/) 核心提供的 Replay API�
 | [AC - Negativity](https://www.spigotmc.org/resources/ac-negativity-spigot-1-8-1-20-bungeecord-velocity.48399/)                                |  💡可选   |
 | [Grim Anticheat](https://www.spigotmc.org/resources/grim-anticheat.99923/)                                                                    |  💡可选   |
 
-:::tips
+:::tip
 
 在安装反作弊插件之前，也请确认它们所需的前置插件是否已经安装，以避免兼容性问题。
 
@@ -125,7 +125,7 @@ createMinutes = 1  # 指定每隔多长时间创建一个摄像机（单位：�
 recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径模板，支持 ${name} 和 ${uuid} 变量。
 ```
 
-:::tips
+:::tip
 
 开启即时回放、录制可疑玩家等功能可能会增加服务器性能消耗。
 
@@ -133,7 +133,7 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
 
 ## 指令
 
-:::tips
+:::tip
 
 **`photographer create <name>` 和 `/instantreplay` 指令** 只能由玩家在游戏内执行，不可在服务器控制台中运行。
 
@@ -158,13 +158,9 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
 ## 下载
 
 - 稳定版本
-
   - [GitHub 发布页](https://github.com/MC-XiaoHei/ISeeYou/releases)
-
   - [MineBBS](https://www.minebbs.com/resources/iseeyou.7276/)
-
 - 开发版本
-
   - [GitHub Actions CI](https://github.com/MC-XiaoHei/ISeeYou/actions/workflows/dev-build.yml?query=is%3Asuccess)
 
 ### 自行构建
@@ -176,7 +172,6 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
    ```shell
    git clone https://github.com/MC-XiaoHei/ISeeYou.git
    ```
-
 2. **编译打包**
 
    进入项目根目录，执行如下命令以构建jar包：
@@ -184,7 +179,6 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
    ```shell
    ./gradlew shadowJar
    ```
-
 3. **获取Jar**
 
    编译完成后，你将在`build/libs`目录下找到名为`ISeeYou.jar`的输出文件。
@@ -192,17 +186,13 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
 ## 作者信息
 
 - 主要开发者：[MC-XiaoHei](https://github.com/MC-XiaoHei)，编写了大部分的代码
-
 - 主要开发者：[CerealAxis](https://github.com/CerealAxis)，制作了自动清理过期录像功能、Matrix适配功能，并且编写了 README。
-
 - 贡献者：[Cranyozen](https://github.com/Cranyozen)，制作了自动构建 CI
 
 ## 注意事项
 
 - 本插件的运行只能在 [Leaves](https://leavesmc.top/) 服务端环境下使用，不支持其他常见的 `Spigot` 及其下游核心（例如 `Paper`、`Purpur` 等）。
-
 - 请在使用插件前仔细阅读并配置好 `config.toml` 文件，以确保插件能够正常运行。
-
 - 尽管目前没有因为 reload 导致的 bug 报告，但尽量不要使用 `Plugman` 等插件热重载本插件,这可能会导致许多未知的问题！
 
 ## 感谢
