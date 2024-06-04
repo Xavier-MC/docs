@@ -12,12 +12,12 @@ sidebar_position: 1
 
 :::
 
-请赞助后联系服主QQ：2741798712。
+请赞助后联系**服主QQ**：2741798712。
 
 |**微信**|**支付宝**|
 |-|-|
-|![2.jpg](https://img2.imgtp.com/2024/05/02/r5KHKOqu.jpg)|![1.jpg](https://img2.imgtp.com/2024/05/02/kFBpPlty.jpg)|
+|![.jpg](https://s2.loli.net/2024/06/05/nNYy5BGCdTZaoeA.jpg)|![.jpg](https://s2.loli.net/2024/06/05/4oMnEAvUROyuXQ5.jpg)|
 
 ## 技术赞助
 
-我们欢迎每一位愿意一起维护Xavier服务器的玩家加入我们。包括但不限于技术、宣传、运营等等等等。
+我们欢迎每一位愿意一起维护Xavier服务器的玩家加入我们。包括但不限于技术、宣传、运营等等。
