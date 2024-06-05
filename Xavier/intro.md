@@ -90,12 +90,12 @@ XavierMC管理员挑选了部分实用的模组并针对此进行模组协议适
 | --- | --- |
 | 简单放置 | 支持 |
 | 轻松放置 | 支持 |
-| [假人](https://docs.xaviermc.top/Xavier/PluginTutorial/SurvivalRedstone/bot) | 需申请 |
+| [假人](https://docs.xaviermc.top/Xavier/PluginTutorial/SurvivalRedstone/bot) | 支持 |
 | 漏斗计数器 | 支持 |
 
 ![Carpet 1.png](https://s2.loli.net/2024/06/05/r32hxQvBGfJ75KH.png)
 
-> 本服支持的简单放置协议为Version 2（carpet_fix）协议。如默认配置无法使用，请前往配置菜单手动指定协议为V2.
+> 本服支持的简单放置协议为 **Version 2**（即carpet_fix）协议。如默认配置无法使用，请前往配置菜单手动指定协议为V2.
 
 **[Syncmatica](https://docs.xaviermc.top/Xavier/PluginTutorial/SurvivalRedstone/syncmatica)**
 
@@ -120,13 +120,13 @@ XavierMC管理员挑选了部分实用的模组并针对此进行模组协议适
 
 以下是一些Appleskin模组的效果展示：
 
-![Appleskin1](https://i.imgur.com/YksBaUx.png)
+![1.png](https://s2.loli.net/2024/06/05/12Ho6mxbM7W5uRv.png)
 
-![Appleskin2](https://i.imgur.com/tmImVqo.gif)
+![3.gif](https://s2.loli.net/2024/06/05/KmSJ9fVPYugNhtv.gif)
 
-![Appleskin3](https://i.imgur.com/aHf1QxQ.gif)
+![4.gif](https://s2.loli.net/2024/06/05/4TZy1Ersx9HkDV2.gif)
 
-![Appleskin4](https://i.imgur.com/jUOKFUl.gif)
+![2.gif](https://s2.loli.net/2024/06/05/khqpgiLazJYUT51.gif)
 
 **[Xaero's Minimap](https://modrinth.com/mod/xaeros-world-map)**
 
