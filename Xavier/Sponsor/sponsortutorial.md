@@ -14,9 +14,9 @@ sidebar_position: 1
 
 请赞助后联系**服主QQ**：2741798712。
 
-|**微信**|**支付宝**|
-|-|-|
-|![.jpg](https://s2.loli.net/2024/06/05/nNYy5BGCdTZaoeA.jpg)|![.jpg](https://s2.loli.net/2024/06/05/4oMnEAvUROyuXQ5.jpg)|
+| **微信**                                                    | **支付宝**                                                  |
+| ----------------------------------------------------------- | ----------------------------------------------------------- |
+| ![.jpg](https://s2.loli.net/2024/06/05/nNYy5BGCdTZaoeA.jpg) | ![.jpg](https://s2.loli.net/2024/06/05/4oMnEAvUROyuXQ5.jpg) |
 
 ## 技术赞助
 

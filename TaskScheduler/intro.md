@@ -11,7 +11,7 @@ _一个轻量级定时任务插件_
 ## 支持的版本
 
 | 平台   | 版本  |
-|--------|-------|
+| ------ | ----- |
 | Spigot | 1.20+ |
 | Paper  | 1.20+ |
 | Purpur | 1.20+ |
@@ -21,8 +21,8 @@ _一个轻量级定时任务插件_
 
 ## 发布平台
 
-| 平台             | URL                                                                              |
-|------------------|----------------------------------------------------------------------------------|
+| 平台              | URL                                                                                                                  |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------- |
 | SpigotMC (正式版) | [https://www.spigotmc.org/resources/taskscheduler.115092/](https://www.spigotmc.org/resources/taskscheduler.115092/) |
 | MineBBS (正式版)  | [https://www.minebbs.com/resources/taskscheduler.6088/](https://www.minebbs.com/resources/taskscheduler.6088/)       |
 | Github (正式版)   | [https://github.com/CerealAxis/TaskScheduler/releases](https://github.com/CerealAxis/TaskScheduler/releases)         |
@@ -71,10 +71,10 @@ clearing:
 
 > 命令中的 ts 也可以写为 TaskScheduler
 
-| Command    | Description |
-|------------|-------------|
-| /ts reload | 重载插件    |
-| /ts help   | 打开帮助菜单|
+| Command    | Description  |
+| ---------- | ------------ |
+| /ts reload | 重载插件     |
+| /ts help   | 打开帮助菜单 |
 
 ## 统计
 
