@@ -144,6 +144,17 @@ module.exports = {
           ],
         },
         {
+          items: [
+            {
+              html: `
+                <a href="https://www.vercel.com?utm_source=leavesmc&utm_campaign=oss" target="_blank" rel="noreferrer noopener" aria-label="Powered by Vercel" style="display: flex; justify-content: center; width: 250%;">
+                  <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" width="100" height="25" />
+                </a>
+              `,
+            },
+          ],
+        },
+        {
           title: '更多',
           items: [
             {
@@ -151,19 +162,11 @@ module.exports = {
               href: 'https://xaviermc.top',
             },
             {
-              label: 'GitHub仓库',
+              label: 'XavierMC GitHub',
               href: 'https://github.com/Xavier-MC',
-            },
-            {
-              html: `
-                <a href="https://www.vercel.com?utm_source=leavesmc&utm_campaign=oss" target="_blank" rel="noreferrer noopener" aria-label="Powered by Vercel">
-                  <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" width="100" height="25" />
-                </a>
-              `,
             },
           ],
         },
-
       ],
       copyright: `Copyright © ${new Date().getFullYear()} XavierMC and Contributors, Inc. Built with Docusaurus.`,
     },
