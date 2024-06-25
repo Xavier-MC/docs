@@ -18,17 +18,17 @@ module.exports = {
     locales: ['zh-Hans'],
   },
 
-  presets: [
+presets: [
     [
-      'classic',
+      'classic', 
       {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/xavier-mc/docs/tree/main/packages/create-docusaurus/templates/shared/',
+        docs: { 
+          sidebarPath: require.resolve('./sidebarsXavier.js'), 
+          editUrl: 
+            'https://github.com/xavier-mc/docs/tree/main/Xavier/',
         },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+        theme: { 
+          customCss: require.resolve('./src/css/custom.css'), 
         },
       },
     ],
@@ -144,18 +144,7 @@ module.exports = {
           ],
         },
         {
-          items: [
-            {
-              html: `
-                <a href="https://www.vercel.com?utm_source=leavesmc&utm_campaign=oss" target="_blank" rel="noreferrer noopener" aria-label="Powered by Vercel" style="display: flex; justify-content: center; width: 250%;">
-                  <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" width="100" height="25" />
-                </a>
-              `,
-            },
-          ],
-        },
-        {
-          title: '更多',
+          title: '更多',  
           items: [
             {
               label: '服主博客',
@@ -164,6 +153,13 @@ module.exports = {
             {
               label: 'XavierMC GitHub',
               href: 'https://github.com/Xavier-MC',
+            },
+            {
+              html: `
+                <a href="https://www.vercel.com?utm_source=leavesmc&utm_campaign=oss" target="_blank" rel="noreferrer noopener" aria-label="Powered by Vercel">
+                  <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" width="100" height="25" />
+                </a>
+              `,
             },
           ],
         },
