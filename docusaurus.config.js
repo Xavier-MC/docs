@@ -25,7 +25,7 @@ presets: [
         docs: { 
           sidebarPath: require.resolve('./sidebarsXavier.js'), 
           editUrl: 
-            'https://github.com/xavier-mc/docs/tree/main/Xavier/',
+            'https://github.com/Xavier-MC/docs/edit/main/Xavier/',
         },
         theme: { 
           customCss: require.resolve('./src/css/custom.css'), 
