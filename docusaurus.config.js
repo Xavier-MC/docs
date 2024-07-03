@@ -144,7 +144,7 @@ presets: [
             {
               label: 'MineBBS',
               href: 'https://www.minebbs.com/',
-            }
+            },
             {
               label: 'KLPBBS',
               href: 'https://www.klpbbs.com/',
