@@ -53,6 +53,6 @@ _Xavier服务器提供了类似 Carpet 的假人支持_
 
 7. 若有管理员对此机器提出其他要求，则也需满足。
 
-## [点我申请]((https://flowus.cn/form/1aebfb23-6b05-4bac-b045-6fc33ed45bf7?code=L78AAG))
+## [点我申请](https://flowus.cn/form/1aebfb23-6b05-4bac-b045-6fc33ed45bf7?code=L78AAG)
 
 申请后请前往QQ群@服主进行处理。
