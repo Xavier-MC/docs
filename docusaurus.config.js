@@ -23,7 +23,7 @@ presets: [
       'classic', 
       {
         docs: { 
-          sidebarPath: require.resolve('./sidebarsXavier.js'), 
+          sidebarPath: require.resolve('./Config/sidebarsXavier.js'), 
           editUrl: 
             'https://github.com/Xavier-MC/docs/edit/main/Xavier/',
         },
@@ -41,7 +41,7 @@ presets: [
         id: 'Xavier',
         path: 'Xavier',
         routeBasePath: 'Xavier',
-        sidebarPath: require.resolve('./sidebarsXavier.js'),
+        sidebarPath: require.resolve('./Config/sidebarsXavier.js'),
       }
     ],
     [
@@ -50,7 +50,7 @@ presets: [
         id: 'ISeeYou',
         path: 'ISeeYou',
         routeBasePath: 'ISeeYou',
-        sidebarPath: require.resolve('./sidebarsISeeYou.js'),
+        sidebarPath: require.resolve('./Config/sidebarsISeeYou.js'),
       }
     ],
     [
@@ -59,7 +59,7 @@ presets: [
         id: 'TaskScheduler',
         path: 'TaskScheduler',
         routeBasePath: 'TaskScheduler',
-        sidebarPath: require.resolve('./sidebarsTaskScheduler.js'),
+        sidebarPath: require.resolve('./Config/sidebarsTaskScheduler.js'),
       }
     ]
   ],
@@ -141,6 +141,14 @@ presets: [
               label: 'QQ群',
               href: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4wSu8MSC3iKO-dtD18tXazBlu4Q4PKxD&authKey=eAN9u8XjNgtNkpxlIKKUtN6Yp9DpEMQzsY7ZcTdUEZX5Lk8X77x7lF2FNa9Uj435&noverify=0&group_code=436392446',
             },
+            {
+              label: 'MineBBS',
+              href: 'https://www.minebbs.com/',
+            }
+            {
+              label: 'KLPBBS',
+              href: 'https://www.klpbbs.com/',
+            }
           ],
         },
         {

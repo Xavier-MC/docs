@@ -14,7 +14,7 @@ sidebar_position: 1
 
 ### 插件与玩法
 
-服务器为原版生存，并未添加任何改变原版游戏玩法的插件。服务器内仅安装了一些监控类插件，如Matrix Premium（矩阵反作弊）、CoreProtest（核心保护）等，用于维护服务器内的游戏环境。
+服务器为原版生存，并未添加任何改变原版游戏玩法的插件。服务器内仅安装了一些监控类插件，如Matrix Premium（矩阵反作弊）、CoreProtect（核心保护）等，用于维护服务器内的游戏环境。
 
 ### 兼容
 
@@ -22,9 +22,9 @@ sidebar_position: 1
 
 | Java版      | 基岩版          |
 | ----------- | --------------- |
-| 1.20.0-1.21 | 1.20.80/81-1.21 |
+| 1.20.0-1.21 | 1.20.80/81-1.21.0/1 |
 
-> 推荐使用Java的1.20.4和基岩版的1.21版本游玩服务器。
+> 推荐使用Java的1.20.6和基岩版的1.21版本游玩服务器。
 
 > 对于Java版玩家，我们推荐您使用[Xplus系列整合包](https://modrinth.com/modpack/xplus-2.0-modpack-global)游玩本服。
 
@@ -61,15 +61,15 @@ sidebar_position: 1
 
 ![.png](https://s2.loli.net/2024/06/04/CuXaQ8R4thU63Lg.png)
 
-#### [自助查熊](https://docs.xaviermc.top/Xavier/PluginTutorial/Security/coreprotest)
+#### [自助查熊](https://docs.xaviermc.top/Xavier/PluginTutorial/Security/CoreProtect)
 
-本服采用CoreProtest插件对玩家一举一动进行详细记录。如发现自己的机器、房屋被破坏，物品被盗窃等，都可以通过指令快速找出熊孩子，方便服主后续的追责处理。
+本服采用CoreProtect插件对玩家一举一动进行详细记录。如发现自己的机器、房屋被破坏，物品被盗窃等，都可以通过指令快速找出熊孩子，方便服主后续的追责处理。
 
-![CoreProtest.png](https://s2.loli.net/2024/06/05/13oHSjGdicXQswu.png)
+![CoreProtect.png](https://s2.loli.net/2024/06/05/13oHSjGdicXQswu.png)
 
 ![Co2.png](https://s2.loli.net/2024/06/05/sFrpPh9QtIjSlzq.png)
 
-> [详细教程](https://docs.xaviermc.top/Xavier/PluginTutorial/Security/coreprotest)在这！
+> [详细教程](https://docs.xaviermc.top/Xavier/PluginTutorial/Security/CoreProtect)在这！
 
 #### 模组适配
 
