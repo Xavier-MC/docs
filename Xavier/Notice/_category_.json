@@ -1,0 +1,8 @@
+{
+  "label": "公告区",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "服务器公告区"
+  }
+}

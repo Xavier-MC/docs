@@ -1,0 +1,8 @@
+{
+  "label": "黑名单",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "服务器黑名单发布处"
+  }
+}
