@@ -29,4 +29,4 @@ sidebar_position: 1
 请注意：如果您不在群内，除非问卷填写非常优秀，否则不会通过。请尽可能先加入QQ审核941968417。
 :::
 
-[点我前往填写问卷]()
+[点我前往填写问卷](https://www.wenjuan.com/s/UZBZJv7Xxkt/)
