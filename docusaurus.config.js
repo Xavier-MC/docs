@@ -112,7 +112,7 @@ presets: [
           position: 'right',
         },
         {
-          href: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4wSu8MSC3iKO-dtD18tXazBlu4Q4PKxD&authKey=eAN9u8XjNgtNkpxlIKKUtN6Yp9DpEMQzsY7ZcTdUEZX5Lk8X77x7lF2FNa9Uj435&noverify=0&group_code=436392446',
+          href: 'https://qm.qq.com/q/1jf6FlTC7i',
           label: 'QQ群',
           position: 'right',
         },
@@ -139,7 +139,7 @@ presets: [
           items: [
             {
               label: 'QQ群',
-              href: 'https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4wSu8MSC3iKO-dtD18tXazBlu4Q4PKxD&authKey=eAN9u8XjNgtNkpxlIKKUtN6Yp9DpEMQzsY7ZcTdUEZX5Lk8X77x7lF2FNa9Uj435&noverify=0&group_code=436392446',
+              href: 'https://qm.qq.com/q/1jf6FlTC7i',
             },
             {
               label: 'MineBBS',

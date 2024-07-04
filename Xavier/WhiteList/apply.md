@@ -11,6 +11,21 @@ sidebar_position: 1
 |正版账号|是|否|
 |白名单审核通过|是|是|
 
+## 申请流程
+
+```mermaid
+graph LR
+A[添加QQ群941968417] --> B[填写问卷]
+B -->|审核通过| C[发送邀请]
+B -->|审核不通过| D[拒绝]
+```
+
+## 审核人员
+
+|CerealAxis41843|JUDAJIANGUO6341|bilidilill|xiaoci0awa|badmood|
+|-|-|-|-|-|
+||||||
+
 ## 问卷填写
 
 :::danger
