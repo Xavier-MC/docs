@@ -8,7 +8,7 @@ sidebar_position: 1
 点击名字展开后获取详情。
 :::
 
-<details>
+<!-- <details>
     <summary style="font-size: 18px; color: black; font-weight: bold;">xiaoran2201</summary>
     <div style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; margin-top: 5px;">
         <p><strong>UUID：</strong>0c1ce964-0d2e-4deb-883d-d26fe8c01178</p>
@@ -49,4 +49,4 @@ sidebar_position: 1
         <p><strong>缘由：</strong>开挂</p>
     <iframe src="//player.bilibili.com/player.html?bvid=BV1Hw4m197sj&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
     </div>
-</details>
+</details> -->
