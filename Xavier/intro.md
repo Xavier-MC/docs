@@ -157,7 +157,9 @@ Jade是信息HUD模组，旨在提供更好的用户体验和API支持。
 
 欢迎大家来游玩我们Xavier纯生存服务器！
 
-我们的[QQ群](https://qm.qq.com/q/M7tboLGxqi)：**436392446**
+我们的[QQ群](https://qm.qq.com/q/1jf6FlTC7i)：**941968417**
+
+> 本服需白名单审核，[详情请点击查看](https://docs.xaviermc.top/Xavier/WhiteList/apply)
 
 主节点（郑州）：
 
