@@ -13,18 +13,14 @@ sidebar_position: 1
 
 ## 申请流程
 
-```mermaid
-graph LR
-A[添加QQ群941968417] --> B[填写问卷]
-B -->|审核通过| C[发送邀请]
-B -->|审核不通过| D[拒绝]
-```
+![shenhe.png](https://s2.loli.net/2024/07/05/LmitwURXb13sgB4.png)
 
 ## 审核人员
 
-|CerealAxis41843|JUDAJIANGUO6341|bilidilill|xiaoci0awa|badmood|
+|ID|CerealAxis41843|JUDAJIANGUO6341|xiaoci0awa|badmood|
 |-|-|-|-|-|
-||||||
+|头像|![.png](https://s2.loli.net/2024/07/05/WxK6N9gPi5rvfJd.png)|![junda.jpg](https://s2.loli.net/2024/07/05/STKOi8ajcApGLoe.jpg)|![bad.jpg](https://s2.loli.net/2024/07/05/Jaw9TxOY7hl3PKu.jpg)|![xiao.jpg](https://s2.loli.net/2024/07/05/CDmBsvhIV2GxjE7.jpg)|
+|QQ号|2741798712|3204591176|1778617061|1302600482|
 
 ## 问卷填写
 
