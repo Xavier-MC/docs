@@ -102,7 +102,7 @@ Litematica模组是Java版社区中备受欢迎的模组之一。它提供了各
 
 ![2.png](https://s2.loli.net/2024/06/05/yVcm1Kqv9pgEPeL.png)
 
-**[Appleskin](https://modrinth.com/mod/xaeros-world-map)**
+**[Appleskin](https://modrinth.com/mod/appleskin)**
 
 为了提升玩家的游戏体验，我们添加了对Appleskin模组的服务端支持。该模组可以为玩家提供以下功能：
 
