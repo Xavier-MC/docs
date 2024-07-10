@@ -65,6 +65,11 @@ module.exports = {
     ]
   ],
 
+  themes: ['@docusaurus/theme-mermaid'],
+  markdown: {
+    mermaid: true,
+  },
+
   themeConfig: {
     algolia: {
       appId: 'OU9XT8Y9LS',

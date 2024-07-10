@@ -13,7 +13,12 @@ sidebar_position: 1
 
 ## 申请流程
 
-![shenhe.png](https://s2.loli.net/2024/07/05/LmitwURXb13sgB4.png)
+```mermaid
+graph LR;
+    A[添加QQ群941968417]-->B[填写问卷];
+    B--审核通过-->C[加入主群];
+    B--审核不通过-->D[拒绝];
+```
 
 ## 审核人员
 
