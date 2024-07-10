@@ -1,5 +1,6 @@
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const {themes} = require('prism-react-renderer');
+const lightTheme = themes.github;
+const darkTheme = themes.dracula;
 
 module.exports = {
   title: 'XavierMC',
@@ -18,7 +19,7 @@ module.exports = {
     locales: ['zh-Hans'],
   },
 
-presets: [
+  presets: [
     [
       'classic', 
       {
@@ -66,17 +67,13 @@ presets: [
 
   themeConfig: {
     algolia: {
-      appId: "OU9XT8Y9LS",
-      apiKey: "85be3e345a78b233fab09190ad4bfec4",
-      indexName: "xaviermc",
+      appId: 'OU9XT8Y9LS',
+      apiKey: '85be3e345a78b233fab09190ad4bfec4',
+      indexName: 'xaviermc',
       contextualSearch: false,
       externalUrlRegex: 'external\\.com|domain\\.com',
-      replaceSearchResultPathname: {
-        from: ['/docs/', '/ISeeYou/','Xavier','TaskScheduler'],
-        to: '/',
-      },
       searchParameters: {},
-      searchPagePath: 'search',
+      searchPagePath: 'search'
     },
     navbar: {
       title: 'XavierMC',
@@ -175,8 +172,8 @@ presets: [
       copyright: `Copyright © ${new Date().getFullYear()} XavierMC and Contributors, Inc. Built with Docusaurus.`,
     },
     prism: {
-      theme: lightCodeTheme,
-      darkTheme: darkCodeTheme,
+      theme: lightTheme,
+      darkTheme: darkTheme,
     },
   },
 };
