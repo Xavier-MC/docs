@@ -1,0 +1,37 @@
+{
+    "name": "Xavier",
+    "short_name": "Xavier",
+    "theme_color": "#12affa",
+    "background_color": "#424242",
+    "display": "standalone",
+    "scope": "https://docs.xaviermc.top/",
+    "start_url": "https://docs.xaviermc.top/",
+    "related_applications": [
+      {
+        "platform": "webapp",
+        "url": "https://docs.xaviermc.top/manifest.json"
+      }
+    ],
+    "icons": [
+      {
+        "src": "static/img/logo-32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "static/img/logo-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "static/img/logo-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "static/img/logo-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
