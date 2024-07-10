@@ -43,6 +43,7 @@ module.exports = {
         path: 'Xavier',
         routeBasePath: 'Xavier',
         sidebarPath: require.resolve('./Config/sidebarsXavier.js'),
+        showLastUpdateTime: true,
       }
     ],
     [
@@ -52,6 +53,7 @@ module.exports = {
         path: 'ISeeYou',
         routeBasePath: 'ISeeYou',
         sidebarPath: require.resolve('./Config/sidebarsISeeYou.js'),
+        showLastUpdateTime: true,
       }
     ],
     [
@@ -61,6 +63,7 @@ module.exports = {
         path: 'TaskScheduler',
         routeBasePath: 'TaskScheduler',
         sidebarPath: require.resolve('./Config/sidebarsTaskScheduler.js'),
+        showLastUpdateTime: true,
       }
     ]
   ],
