@@ -36,7 +36,6 @@ module.exports = {
   ],
 
   plugins: [
-    'plugin-image-zoom',
     [
       '@docusaurus/plugin-pwa',
       {
