@@ -15,6 +15,8 @@ sidebar_position: 2
 - **囧龍** 🌟 `50¥`
 - **mutoumao** 🌟 `50¥`
 - **Steven_achen** 🌟 `50¥`
+- **zhan_cpu** 🌟 `50¥`
+- **chenxi_07** 🌟 `50¥`
 - **sunsunsvmc** 🌟 `40¥`
 - **Dominick** 🌟 `30¥`
 - **huaji** 🌟 `25¥`
@@ -23,11 +25,10 @@ sidebar_position: 2
 ## 铜牌赞助者
 
 - **QIGAILINGZHU**
+- **xiaoci0awa**
 - **bad_mood**
 - **qianlomg_wts**
 - **AAA-十年一刻**
-
-> 最新更新日期：2024年07月04日
 
 :::tip
 
@@ -35,4 +36,4 @@ sidebar_position: 2
 
 :::
 
-再次向以上所有的赞助者表示由衷的感谢！
+再次向以上所有的赞助者表示由衷的**感谢**！
