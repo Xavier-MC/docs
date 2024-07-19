@@ -22,9 +22,9 @@ sidebar_position: 1
 
 | Java版      | 基岩版            |
 | ----------- | ----------------- |
-| 1.20.0-1.21 | 1.20.80/81-1.21.2 |
+| 1.20.0-1.21 | 1.20.80/81-1.21.3 |
 
-服务器核心版本：[Leaves](https://leavesmc.org)-1.21
+服务器核心版本：[Leaves-1.21](https://leavesmc.org)
 
 > 推荐使用Java的1.21.0和基岩版的1.21版本游玩服务器。
 
@@ -44,7 +44,7 @@ sidebar_position: 1
 | 睡觉比例   | 50%                                 |                                                                                                    |
 | 种子       | 服务器种子不公开并做了防爆破处理    |                                                                                                    |
 | 模拟距离   | 10                                  |                                                                                                    |
-| 可视距离   | 20                                  |                                                                                                    |
+| 可视距离   | 16                                  |                                                                                                    |
 
 :::info 
 
@@ -165,8 +165,13 @@ Jade是信息HUD模组，旨在提供更好的用户体验和API支持。
 
 | 节点 | Java版                | 基岩版                         |
 | ---- | --------------------- | ------------------------------ |
-| 郑州 | zz.xaviermc.top:20002 | IP(zz.xaviermc.top)，端口20002 |
+| ~~郑州~~ | ~~zz.xaviermc.top:20002~~ | ~~IP(zz.xaviermc.top)，端口20002~~ |
+| 枣庄 | sd.xaviermc.top:20002 | IP(sd.xaviermc.top)，端口20002 |
+
+:::danger
+目前仅启用枣庄节点
+:::
 
 不会加入？点[我](https://docs.xaviermc.top/Xavier/connection_problem)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="195px" scrolling="no" src="//motdbe.blackbe.work/iframe.html?ip=zz.xaviermc.top&port=20002&dark=false&join_open=true"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="195px" scrolling="no" src="//motdbe.blackbe.work/iframe.html?ip=sd.xaviermc.top&port=20002&dark=false&join_open=true"></iframe>
