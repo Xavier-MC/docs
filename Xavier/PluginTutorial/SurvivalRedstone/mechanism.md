@@ -21,48 +21,12 @@ sidebar_position: 6
 
 ## 2. 村民相关特性
 
-### fix-curing-zombie-villager-discount-exploit
-
-- **启用状态**: `false`
-- **简介**: 村民打骨折。
-
-:::tip
-此特性在1.20.2正式版中被移除
-:::
-
-### allow_void_trading
-
-- **启用状态**: `true`
-- **简介**: 虚空交易。
-
 ### shared-villager-discounts
 
 - **启用状态**: `true`
 - **简介**: 允许多个玩家共享同一个村民的折扣。
   
-:::tip
-此特性为本服特有，非原版自带。
-:::
-
-### skip-poi-find-in-vehicle
-
-- **启用状态**: `true`
-- **简介**: 服务端将会跳过在载具内村民的 poi 计算，这对密集的村民交易大厅的优化十分明显。
-
-:::tip
-此特性为本服特有，非原版自带。
-:::
-
 ## 3. 方块交互
-
-### armor-stand-cant-kill-by-mob-projectile
-
-- **启用状态**: `false`
-- **简介**: 允许生物弹射物破坏盔甲架。
-
-:::tip
-此特性在1.20.2正式版中被移除
-:::
 
 ### redstone-wire-dont-connect-if-on-trapdoor
 
