@@ -173,5 +173,3 @@ Jade是信息HUD模组，旨在提供更好的用户体验和API支持。
 :::
 
 不会加入？点[我](https://docs.xaviermc.top/Xavier/connection_problem)
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="195px" scrolling="no" src="//motdbe.blackbe.work/iframe.html?ip=sd.xaviermc.top&port=20002&dark=false&join_open=true"></iframe>
