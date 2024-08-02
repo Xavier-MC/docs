@@ -53,6 +53,13 @@ module.exports = {
       },
     ],
     [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'ca-pub-3111013872558395',
+        anonymizeIP: true,
+      },
+    ],
+    [
       '@docusaurus/plugin-content-docs',
       {
         id: 'Xavier',
