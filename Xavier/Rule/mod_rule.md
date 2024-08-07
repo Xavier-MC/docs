@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Xavier Minecraft模组使用规定
+# 模组使用规定
 
 ## ◎ 前言
 
