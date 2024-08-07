@@ -134,11 +134,15 @@ graph LR
 - 打造一个自给自足的大型基地，拥有完善的资源及物资管理系统
 - 成为服务器内的标杆基地，吸引更多优秀玩家加入
 
-## 标杆基地
+## 基地
 
-**老登之家**：负责人 CerealAxis41843、badmood、xiaoci0awa、JUDAJIANGUO6341  
+**老登之家**：负责人CerealAxis41843、badmood、xiaoci0awa、JUDAJIANGUO6341  
 
-**镌松堂**:负责人 chenxi_07
+**镌松堂**:负责人chenxi_07
+
+**德云社**：负责人Azusa11451451
+
+**蓬莱岛**：负责人Reyth_XW
 
 ### 基地对比
 
