@@ -5,7 +5,7 @@
 This is the repository for all project documentation under the XavierMC umbrella.
 Content in this repository is published to [docs.xaviermc.top](https://docs.xaviermc.top) for viewing.
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
 
 Some file is powered by PaperMC and LeavesMC.
 
