@@ -6,21 +6,21 @@ import styles from './styles.module.css';
 const ProjectList = [
     {
         title: 'Xavier',
-        description: <>一个高版本的纯生存互通服务器</>,
+        description: <>已关服~~</>,
         repo: "Xavier-MC/",
-        link: "/Xavier/intro",
+        link: "/wiki/Xavier/intro",
     },
     {
         title: 'TaskScheduler',
         description: <>一个定时任务插件</>,
         repo: "CerealAxis/TaskScheduler",
-        link: "/TaskScheduler/intro",
+        link: "/wiki/TaskScheduler/intro",
     },
     {
         title: 'ISeeYou',
-        description: <>一个调用Leaves-API的摄像头插件</>,
+        description: <>一个调用 Leaves/Leaf API的录像插件</>,
         repo: "Xavier-MC/ISeeYou",
-        link: "/ISeeYou/intro",
+        link: "/wiki/ISeeYou/intro",
     }
 ];
 
