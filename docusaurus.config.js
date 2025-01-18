@@ -62,19 +62,9 @@ module.exports = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'Xavier',
-        path: 'Xavier',
-        routeBasePath: 'Xavier',
-        sidebarPath: require.resolve('./Config/sidebarsXavier.js'),
-        showLastUpdateTime: true,
-      }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
         id: 'ISeeYou',
-        path: 'ISeeYou',
-        routeBasePath: 'ISeeYou',
+        path: 'wiki/ISeeYou',
+        routeBasePath: 'wiki/ISeeYou',
         sidebarPath: require.resolve('./Config/sidebarsISeeYou.js'),
         showLastUpdateTime: true,
       }
@@ -82,9 +72,19 @@ module.exports = {
     [
       '@docusaurus/plugin-content-docs',
       {
+        id: 'Xavier',
+        path: 'wiki/Xavier',
+        routeBasePath: 'wiki/Xavier',
+        sidebarPath: require.resolve('./Config/sidebarsXavier.js'),
+        showLastUpdateTime: true,
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
         id: 'TaskScheduler',
-        path: 'TaskScheduler',
-        routeBasePath: 'TaskScheduler',
+        path: 'wiki/TaskScheduler',
+        routeBasePath: 'wiki/TaskScheduler',
         sidebarPath: require.resolve('./Config/sidebarsTaskScheduler.js'),
         showLastUpdateTime: true,
       }
@@ -115,6 +115,13 @@ module.exports = {
       items: [
         {
           type: 'docSidebar',
+          sidebarId: 'ISeeYouSidebar',
+          position: 'left',
+          label: 'ISeeYou',
+          docsPluginId: 'ISeeYou'
+        },
+        {
+          type: 'docSidebar',
           sidebarId: 'XavierSidebar',
           position: 'left',
           label: 'Xavier',
@@ -126,13 +133,6 @@ module.exports = {
           position: 'left',
           label: 'TaskScheduler',
           docsPluginId: 'TaskScheduler'
-        },
-        {
-          type: 'docSidebar',
-          sidebarId: 'ISeeYouSidebar',
-          position: 'left',
-          label: 'ISeeYou',
-          docsPluginId: 'ISeeYou'
         },
         {
           href: 'https://github.com/Xavier-MC',
@@ -154,7 +154,7 @@ module.exports = {
           items: [
             {
               label: '文档',
-              to: 'Xavier/intro',
+              to: 'wiki/Xavier/intro',
             },
             {
               label: '状态监控',
@@ -187,7 +187,7 @@ module.exports = {
               href: 'https://xaviermc.top',
             },
             {
-              label: 'XavierMC GitHub',
+              label: 'GitHub',
               href: 'https://github.com/Xavier-MC',
             },
             {

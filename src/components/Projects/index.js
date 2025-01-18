@@ -5,6 +5,12 @@ import styles from './styles.module.css';
 
 const ProjectList = [
     {
+        title: 'ISeeYou',
+        description: <>一个调用 Leaves/Leaf API的录像插件</>,
+        repo: "Xavier-MC/ISeeYou",
+        link: "/wiki/ISeeYou/intro",
+    },
+    {
         title: 'Xavier',
         description: <>已关服~~</>,
         repo: "Xavier-MC/",
@@ -16,12 +22,6 @@ const ProjectList = [
         repo: "CerealAxis/TaskScheduler",
         link: "/wiki/TaskScheduler/intro",
     },
-    {
-        title: 'ISeeYou',
-        description: <>一个调用 Leaves/Leaf API的录像插件</>,
-        repo: "Xavier-MC/ISeeYou",
-        link: "/wiki/ISeeYou/intro",
-    }
 ];
 
 function Projects({ title, description, repo, link }) {

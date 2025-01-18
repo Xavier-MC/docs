@@ -3,7 +3,6 @@ sidebar_position: 1
 ---
 
 # 介绍
-<img src="https://picdm.sunbangyan.cn/2024/02/20/b7ea08f832b52a6dcbc215947d849425.jpeg" alt="Logo" width="100" height="100">
 
 _也可以叫 ICU_
 
@@ -142,8 +141,8 @@ recordPath = "replay/instant/${name}@${uuid}"  # 存储即时回放录像路径�
 
 | 指令                                      | 功能描述                                                                                                           | 示例                                                                             |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| `photographer create <name> [location]` | 创建摄像机<br>`<name>`：摄像机名称，长度限制在 5 到 16 个字符之间<br>`[location]`（可选）：摄像机位置，格式为 x y z 坐标值。<br>若不指定位置，则默认设置为执行命令玩家当前位置 | `/photographer create MyCamera`<br>`/photographer create MyCamera <x> <y> <z>` |
-| `photographer remove <name>`            | 移除摄像<br>`<name>`：要移除的摄像机名称机                                                                                    | `/photographer remove MyCamera`                                                |
+| `photographer create <name> [location]` | 创建摄像机 `<name>`：摄像机名称，长度限制在 5 到 16 个字符之间 `[location]`（可选）：摄像机位置，格式为 x y z 坐标值。 若不指定位置，则默认设置为执行命令玩家当前位置 | `/photographer create MyCamera` `/photographer create MyCamera <x> <y> <z>` |
+| `photographer remove <name>`            | 移除摄像 `<name>`：要移除的摄像机名称机                                                                                    | `/photographer remove MyCamera`                                                |
 | `photographer list`                     | 显示所有摄像机列表                                                                                                      | `/photographer list`                                                           |
 | `instantreplay`                         | 创建针对执行命令玩家的即时回放记录                                                                                              | `/instantreplay`                                                               |
 
