@@ -5,22 +5,16 @@ import styles from './styles.module.css';
 
 const ProjectList = [
     {
-        title: 'ISeeYou',
-        description: <>一个调用 Leaves/Leaf API的录像插件</>,
-        repo: "Xavier-MC/ISeeYou",
-        link: "/wiki/ISeeYou/intro",
+        title: 'Xavier PerioTable 整合包',
+        description: <>极致优化，原版体验</>,
+        repo: "Xavier-MC/",
+        link: "/wiki/XavierPerioTable/intro",
     },
     {
-        title: 'Xavier',
-        description: <>已关服~~</>,
+        title: 'Xavier 服务器',
+        description: <>已关服，文档仅留作纪念</>,
         repo: "Xavier-MC/",
         link: "/wiki/Xavier/intro",
-    },
-    {
-        title: 'TaskScheduler',
-        description: <>一个定时任务插件</>,
-        repo: "CerealAxis/TaskScheduler",
-        link: "/wiki/TaskScheduler/intro",
     },
 ];
 

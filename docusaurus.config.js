@@ -62,16 +62,6 @@ module.exports = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'ISeeYou',
-        path: 'wiki/ISeeYou',
-        routeBasePath: 'wiki/ISeeYou',
-        sidebarPath: require.resolve('./Config/sidebarsISeeYou.js'),
-        showLastUpdateTime: true,
-      }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
         id: 'Xavier',
         path: 'wiki/Xavier',
         routeBasePath: 'wiki/Xavier',
@@ -82,13 +72,13 @@ module.exports = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'TaskScheduler',
-        path: 'wiki/TaskScheduler',
-        routeBasePath: 'wiki/TaskScheduler',
-        sidebarPath: require.resolve('./Config/sidebarsTaskScheduler.js'),
+        id: 'XavierPerioTable',
+        path: 'wiki/XavierPerioTable',
+        routeBasePath: 'wiki/XavierPerioTable',
+        sidebarPath: require.resolve('./Config/sidebarsXavierPerioTable.js'),
         showLastUpdateTime: true,
       }
-    ]
+    ],
   ],
 
   themes: ['@docusaurus/theme-mermaid'],
@@ -115,13 +105,6 @@ module.exports = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'ISeeYouSidebar',
-          position: 'left',
-          label: 'ISeeYou',
-          docsPluginId: 'ISeeYou'
-        },
-        {
-          type: 'docSidebar',
           sidebarId: 'XavierSidebar',
           position: 'left',
           label: 'Xavier',
@@ -129,10 +112,10 @@ module.exports = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'TaskSchedulerSidebar',
+          sidebarId: 'XavierPerioTableSidebar',
           position: 'left',
-          label: 'TaskScheduler',
-          docsPluginId: 'TaskScheduler'
+          label: 'XavierPerioTable',
+          docsPluginId: 'XavierPerioTable'
         },
         {
           href: 'https://github.com/Xavier-MC',
@@ -140,7 +123,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: 'https://qm.qq.com/q/1jf6FlTC7i',
+          href: 'https://qm.qq.com/q/alY4q3bYHK',
           label: 'QQ群',
           position: 'right',
         },
@@ -183,7 +166,7 @@ module.exports = {
           title: '更多',  
           items: [
             {
-              label: '服主博客',
+              label: '个人博客',
               href: 'https://xaviermc.top',
             },
             {
