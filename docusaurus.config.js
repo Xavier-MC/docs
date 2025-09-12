@@ -79,6 +79,7 @@ module.exports = {
         showLastUpdateTime: true,
       }
     ],
+    'docusaurus-plugin-zooming',
   ],
 
   themes: ['@docusaurus/theme-mermaid'],

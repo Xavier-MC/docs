@@ -46,4 +46,4 @@ sidebar_position: 1
 遇到问题？需要帮助？欢迎联系社区！
 
 - [💬 在 QQ 上与我们实时交流！](https://qm.qq.com/q/alY4q3bYHK)
-- [❤️ 支持模组包开发（PayPal）](https://paypal.me/cerealaxis)
+- [❤️ 支持模组包开发](https://paypal.me/cerealaxis)
