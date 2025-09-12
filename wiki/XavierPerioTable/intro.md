@@ -27,7 +27,7 @@ sidebar_position: 1
 
 ## 🧩 模组包信息
 
-- [📜 完整模组列表](https://modrinth.com/modpack/xavier-modpack-global/versions)
+- [📜 完整模组列表](modlist.md)
 
 ---
 
