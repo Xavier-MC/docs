@@ -11,6 +11,8 @@ sidebar_position: 4
 
 :::
 
+## Fabric版本
+
 - 光影功能
   - Iris Shaders
 
@@ -52,13 +54,6 @@ sidebar_position: 4
   - [实体剔除]Entity Culling
 
 - 美化类模组
-  - [模组配置]Puzzle
-  - [OptiFine兼容]OptiGUI
-  - [OptiFine兼容]Continuity
-  - [OptiFine兼容]Entity Texture Features (ETF)
-  - [OptiFine兼容]Entity Model Features (EMF)
-  - [OptiFine兼容]Animatica
-  - [无边框]Cubes Without Borders
   - [自定义窗口标题]Custom Window Title
   - [披风显示]Capes
   - [动态光源]LambDynamicLights
@@ -75,4 +70,14 @@ sidebar_position: 4
   - Cloth Config API
   - Forge Config API Port
   - YetAnotherConfigLib (YACL)
+
+:::tip
+
+以下版本正在开发中，敬请期待！
+
+:::
+
+## NeoForge版本
+
+## Forge版本
 
