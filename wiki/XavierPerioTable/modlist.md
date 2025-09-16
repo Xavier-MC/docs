@@ -29,7 +29,6 @@ sidebar_position: 4
   - [输入法兼容]IMBlocker
   - [阻止聊天报告]No Chat Reports
   - [鼠标手势]Mouse Tweaks
-  - [手柄支持]Controlify (Controller support)
   - [优化文本选取]Better Selection
   - [默认配置]Your Options Shall Be Respected
   - [服务器区块缓存]Bobby
