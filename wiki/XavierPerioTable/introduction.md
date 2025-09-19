@@ -15,7 +15,7 @@ sidebar_position: 5
 
 
 
-[Global](https://modrinth.com/modpack/xavier-periotable) | [Wiki](https://docs.xaviermc.top/wiki/XavierPerioTable/intro)
+[Modrinth](https://modrinth.com/modpack/xavier-periotable) | [Wiki](https://docs.xaviermc.top/wiki/XavierPerioTable/intro) | [mcmod](https://center.mcmod.cn/1231819/#/home/)
 
 > 注意
 >
@@ -33,7 +33,7 @@ sidebar_position: 5
 
 ![Performance2](https://www.minebbs.com/attachments/webp.113963/)
 
-![Performance3](https://www.minebbs.com/attachments/webp.113964/)
+![Performance3](https://www.minebbs.com/attachments/webp.114479/)
 
 ---
 
@@ -54,6 +54,8 @@ sidebar_position: 5
 ---
 
 **下载地址**
+
+Modrinth:https://modrinth.com/modpack/xavier-periotable
 
 夸克：https://pan.quark.cn/s/16e1ac3b3a22
 
