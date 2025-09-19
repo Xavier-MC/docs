@@ -14,7 +14,7 @@ sidebar_position: 1
 
 在这里，您可以找到关于模组包的安装、使用、更新与自定义的完整指南。  
 
-🌍 [用您的语言阅读](https://translate.google.com/translate?js=n&sl=auto&u=https://docs.xaviermc.top/)
+🌍 [Read in yours language](https://translate.google.com/translate?js=n&sl=auto&u=https://docs.xaviermc.top/)
 
 ---
 
