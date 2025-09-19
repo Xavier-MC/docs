@@ -55,7 +55,7 @@ sidebar_position: 5
 
 **下载地址**
 
-Modrinth:https://modrinth.com/modpack/xavier-periotable
+Modrinth：https://modrinth.com/modpack/xavier-periotable
 
 夸克：https://pan.quark.cn/s/16e1ac3b3a22
 
