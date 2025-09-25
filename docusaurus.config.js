@@ -23,10 +23,19 @@ module.exports = {
     [
       'classic', 
       {
-        docs: { 
-          sidebarPath: require.resolve('./Config/sidebarsXavier.js'), 
-          editUrl: 
-            'https://github.com/Xavier-MC/docs/edit/main/Xavier/',
+        docs: {
+          editUrl: ({versionDocsDirPath, docPath}) =>
+              `https://github.com/Xavier-MC/docs/edit/main/${docPath}`,
+          editLocalizedFiles: false,
+          editCurrentVersion: false,
+          routeBasePath: 'docs',
+          include: ['**/*.md', '**/*.mdx'],
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+          ],
         },
         theme: { 
           customCss: require.resolve('./src/css/custom.css'), 
@@ -67,6 +76,7 @@ module.exports = {
         routeBasePath: 'wiki/Xavier',
         sidebarPath: require.resolve('./Config/sidebarsXavier.js'),
         showLastUpdateTime: true,
+        editUrl: 'https://github.com/Xavier-MC/docs/edit/main/',
       }
     ],
     [
@@ -77,8 +87,10 @@ module.exports = {
         routeBasePath: 'wiki/XavierPerioTable',
         sidebarPath: require.resolve('./Config/sidebarsXavierPerioTable.js'),
         showLastUpdateTime: true,
+        editUrl: 'https://github.com/Xavier-MC/docs/edit/main/',
       }
     ],
+
     'docusaurus-plugin-zooming',
   ],
 
@@ -108,7 +120,7 @@ module.exports = {
           type: 'docSidebar',
           sidebarId: 'XavierSidebar',
           position: 'left',
-          label: 'Xavier',
+          label: 'Xavier 服务器',
           docsPluginId: 'Xavier'
         },
         {

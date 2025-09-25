@@ -5,8 +5,7 @@ sidebar_position: 1
 
 :::tip
 
-此维基正在撰写中
-部分内容可能存在链接失效或格式问题，敬请谅解！
+此维基正在撰写中，部分内容可能存在链接失效或格式问题，敬请谅解！
 
 :::
 
@@ -35,7 +34,6 @@ sidebar_position: 1
 
 - [⬇️ 如何安装](/FAQ/install-instructions.md)
 - [➕ 如何添加模组](/FAQ/adding-more-mods.md)
-- [➖ 如何移除模组](/FAQ/disabling-mods.md)
 - [🗑️ 备份与卸载](/FAQ/backup-and-uninstall.md)
 
 ---
