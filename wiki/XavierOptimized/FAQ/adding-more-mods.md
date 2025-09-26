@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 添加模组
 
-本指南将帮助您将其他模组安装到 **Xavier PerioTable** 整合包中。以下是常见启动器的详细安装步骤。
+本指南将帮助您将其他模组安装到 **Xavier Optimized** 整合包中。以下是常见启动器的详细安装步骤。
 
 :::danger
 
@@ -32,7 +32,7 @@ sidebar_position: 2
 
 1. 打开 Modrinth App
 2. 点击左侧导航栏中的 `|||\` “Library”（资源库）
-3. 点击 **Xavier PerioTable**
+3. 点击 **Xavier Optimized**
 4. 点击 `+ Install content`（+ 安装内容）
 5. 搜索您想要安装的模组
 6. 点击 `⤓ Install`（安装）
@@ -41,7 +41,7 @@ sidebar_position: 2
 ## Prism Launcher
 
 1. 打开 Prism Launcher
-2. 点击 **Xavier PerioTable**，然后点击 `Edit`（编辑）
+2. 点击 **Xavier Optimized**，然后点击 `Edit`（编辑）
 3. 点击 `Mods`（模组），然后点击 `Download mods`（下载模组）
 4. 搜索您想要的模组
 5. 选中模组并点击 `Select mod for download`（选择模组以下载）。如需添加多个模组，请重复此步骤。
@@ -52,7 +52,7 @@ sidebar_position: 2
 ## MultiMC / MultiMC
 
 1. 打开 MultiMC
-2. 点击 **Xavier PerioTable**，然后点击 `Instance Folder`（实例文件夹）
+2. 点击 **Xavier Optimized**，然后点击 `Instance Folder`（实例文件夹）
 3. 前往 [Modrinth 网站](https://modrinth.com/mods)，将加载器（Loader）设置为 Fabric / NeoForge / Forge（根据整合包所用加载器选择）
 4. 选择您想要的模组，并进入其 Versions（版本）页面
 5. 点击与 加载器 兼容且适用于您 Minecraft 版本的最新版本旁边的 `⤓` 按钮进行下载

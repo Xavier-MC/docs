@@ -51,20 +51,20 @@ sidebar_position: 3
 
 1. 打开 Modrinth App
 2. 进入左侧导航栏的 `|||\` “资源库”（Library）
-3. 右键点击 **Xavier Periotable**
+3. 右键点击 **Xavier Optimized**
 4. 点击 `🗑️ 删除`
 5. 在确认弹窗中再次点击 `🗑️ 删除`
 
 ### Prism Launcher
 
 1. 打开 Prism Launcher
-2. 点击 **Xavier Periotable** 实例
+2. 点击 **Xavier Optimized** 实例
 3. 点击 `🗑️ 删除`
 4. 在弹出的确认窗口中点击 `是`
 
 ### MultiMC / MultiMC
 
 1. 打开 MultiMC
-2. 点击 **Xavier Periotable** 实例
+2. 点击 **Xavier Optimized** 实例
 3. 点击 `删除`（Delete）
 4. 在确认窗口中点击 `是`（Yes）

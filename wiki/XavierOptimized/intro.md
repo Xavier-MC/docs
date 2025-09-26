@@ -9,7 +9,7 @@ sidebar_position: 1
 
 :::
 
-欢迎来到 **Xavier PerioTable 维基**！  
+欢迎来到 **Xavier Optimized 维基**！  
 
 在这里，您可以找到关于模组包的安装、使用、更新与自定义的完整指南。  
 

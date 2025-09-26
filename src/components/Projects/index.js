@@ -5,10 +5,10 @@ import styles from './styles.module.css';
 
 const ProjectList = [
     {
-        title: 'Xavier PerioTable 整合包',
+        title: 'Xavier Optimized 整合包',
         description: <>极致优化，原版体验</>,
         repo: "Xavier-MC/",
-        link: "/wiki/XavierPerioTable/intro",
+        link: "/wiki/XavierOptimized/intro",
     },
     {
         title: 'Xavier 服务器',

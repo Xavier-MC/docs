@@ -82,10 +82,10 @@ module.exports = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'XavierPerioTable',
-        path: 'wiki/XavierPerioTable',
-        routeBasePath: 'wiki/XavierPerioTable',
-        sidebarPath: require.resolve('./Config/sidebarsXavierPerioTable.js'),
+        id: 'XavierOptimized',
+        path: 'wiki/XavierOptimized',
+        routeBasePath: 'wiki/XavierOptimized',
+        sidebarPath: require.resolve('./Config/sidebarsXavierOptimized.js'),
         showLastUpdateTime: true,
         editUrl: 'https://github.com/Xavier-MC/docs/edit/main/',
       }
@@ -125,10 +125,10 @@ module.exports = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'XavierPerioTableSidebar',
+          sidebarId: 'XavierOptimizedSidebar',
           position: 'left',
-          label: 'XavierPerioTable',
-          docsPluginId: 'XavierPerioTable'
+          label: 'XavierOptimized',
+          docsPluginId: 'XavierOptimized'
         },
         {
           href: 'https://github.com/Xavier-MC',

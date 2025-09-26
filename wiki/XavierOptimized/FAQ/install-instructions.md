@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 安装教程
 
-本指南将帮助您将 **Xavier PerioTable** 整合包安装至主流 Minecraft 启动器。以下为常见启动器的详细安装步骤。
+本指南将帮助您将 **Xavier Optimized** 整合包安装至主流 Minecraft 启动器。以下为常见启动器的详细安装步骤。
 
 :::danger
 
@@ -19,7 +19,7 @@ sidebar_position: 1
 1. 打开 PCL2 启动器。
 2. 切换到顶部菜单的 `下载` 选项卡。
 3. 在子菜单中选择 `整合包`。
-4. 在搜索框中输入 **Xavier PerioTable**，并将来源设置为 `Modrinth`，点击搜索图标。
+4. 在搜索框中输入 **Xavier Optimized**，并将来源设置为 `Modrinth`，点击搜索图标。
 5. 从结果列表中选择所需版本，点击 `安装`。
 6. 系统将自动开始下载并配置整合包。
 
@@ -32,7 +32,7 @@ sidebar_position: 1
 1. 启动 HMCL 启动器。
 2. 进入顶部的 `下载` 选项卡。
 3. 选择 `整合包` 子选项。
-4. 在搜索栏输入 **Xavier PerioTable**，将下载源切换为 `Modrinth`，然后点击搜索按钮。
+4. 在搜索栏输入 **Xavier Optimized**，将下载源切换为 `Modrinth`，然后点击搜索按钮。
 5. 找到目标整合包后，选择所需版本并点击 `安装`。
 6. 整合包将自动开始安装。
 
@@ -43,7 +43,7 @@ sidebar_position: 1
 ## [Modrinth 客户端](https://modrinth.com/app)
 
 1. 打开 Modrinth 官方客户端。
-2. 在首页的“发现整合包”（Discover a modpack）区域，使用搜索功能查找 **Xavier PerioTable**。
+2. 在首页的“发现整合包”（Discover a modpack）区域，使用搜索功能查找 **Xavier Optimized**。
 3. 找到该整合包后，点击 `⤓ 安装` 按钮。
     - ✅ 可选：如需指定版本，可先点击整合包卡片 → 进入 `版本`（Versions）页面 → 在对应版本旁点击 `⤓` 下载。
 4. 客户端将自动完成实例创建与资源安装。
@@ -54,7 +54,7 @@ sidebar_position: 1
 
 1. 点击主界面左上角的 `添加实例`（Add Instance）。
 2. 在弹出窗口中，从左侧选择 `Modrinth` 选项卡。
-3. 在搜索框中输入 **Xavier PerioTable**。
+3. 在搜索框中输入 **Xavier Optimized**。
 4. （可选）在下方下拉菜单中选择您需要的版本。
 5. 确认无误后，点击 `确定`（OK）。
 6. 启动器将自动导入并安装整合包。
@@ -65,7 +65,7 @@ sidebar_position: 1
 
 1. 点击 `添加实例`（Add Instance）按钮。
 2. 在左侧导航栏中选择 `Modrinth` 标签页。
-3. 搜索 **Xavier PerioTable**。
+3. 搜索 **Xavier Optimized**。
 4. （可选）在确认前通过版本下拉菜单选择特定版本。
 5. 点击 `确定`（OK）以开始导入。
 6. 整合包将自动下载并配置完成。

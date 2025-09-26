@@ -7,7 +7,7 @@ sidebar_position: 4
 
 :::danger
 
-受游戏版本，加载器类型及作者知识范围影响，可能部分功能于部分版本中有所缺失，以下清单仅供参考，具体以[Modrinth](https://modrinth.com/modpack/xavier-periotable/versions)显示的模组清单为准
+受游戏版本，加载器类型及作者知识范围影响，可能部分功能于部分版本中有所缺失，以下清单仅供参考，具体以[Modrinth](https://modrinth.com/modpack/xavier-optimized/versions)显示的模组清单为准
 
 :::
 
